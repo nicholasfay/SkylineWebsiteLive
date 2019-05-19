@@ -9,6 +9,7 @@
     <meta name="author" content="">
 
     <title>Litter Announcement - Skyline Giant Schnauzers</title>
+    <link rel='icon' href='./favicon.ico' type='image/x-icon' />
 
     <!-- Bootstrap core css -->
     <link href="/js/bootstrap/css/bootstrap.min.css" rel="stylesheet">

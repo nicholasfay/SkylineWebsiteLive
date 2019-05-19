@@ -8,7 +8,7 @@
     <meta property="og:image" content="images/standardgeneticconcernheader.jpg">
 
     <title>Skyline Giant Schnauzers</title>
-    <link rel='icon' href='./schnauzerlogo.ico' type='image/x-icon' />
+    <link rel='icon' href='./favicon.ico' type='image/x-icon' />
 
     <!-- Bootstrap core css -->
     <link href="/js/bootstrap/css/bootstrap.min.css" rel="stylesheet">
