@@ -429,13 +429,12 @@ Check the appropriate boxes that best describes your plans/goals for your Giant 
     </section>
 
     <?php include "socialmediabanner.php";?>
-    <?php include "footer.php"; ?>
+    <?php include "footer.php";?>
 
     <!-- Bootstrap core JavaScript -->
     <script src="/js/jquery/jquery.min.js"></script>
     <script src="/js/popper/popper.min.js"></script>
     <script src="/js/bootstrap/js/bootstrap.min.js"></script>
-    <script src="/js/lib/jquery.js"></script>
 
   </body>
 

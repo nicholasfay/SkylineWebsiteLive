@@ -67,9 +67,9 @@
         </div>
       </div>
         <div>
-        <p class="lead home-page-announcement">We are proud to announce that our Snooki, "Ch. Skyline's It's All About Me", is 
+        <p class="lead home-page-announcement">We are proud to announce that our Snooki, "Ch. Skyline's It's All About Me", is
           receiving the Giant Schnauzer Club of America Brood Bitch of the Year 2017 award! We are
-          over the moon excited about this. Thank you to all of the people who worked hard 
+          over the moon excited about this. Thank you to all of the people who worked hard
           at making her kids the Champions they all deserved!</p>
          </div>
       </div>
@@ -125,26 +125,15 @@
         </div>
 
       </div>
-      <!-- /.container -->
-
     </section>
-    <!-- /.content-section-a -->
-
-    <section>
-
-    </section>
-    <!-- /.content-section-a -->
 
     <?php include "socialmediabanner.php";?>
-    <!-- /.banner -->
-    <!-- Footer -->
-    <?php include "footer.php"; ?>
+    <?php include "footer.php";?>
 
     <!-- Bootstrap core JavaScript -->
     <script src="/js/jquery/jquery.min.js"></script>
     <script src="/js/popper/popper.min.js"></script>
     <script src="/js/bootstrap/js/bootstrap.min.js"></script>
-    <script src="/js/lib/jquery.js"></script>
 
   </body>
 

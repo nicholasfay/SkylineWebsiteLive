@@ -10,15 +10,9 @@
 
     <title>Our Dogs - Skyline Giant Schnauzers</title>
     <link rel='icon' href='./favicon.ico' type='image/x-icon' />
-
-    <!-- Bootstrap core css -->
     <link href="/js/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-
-    <!-- Custom fonts for this template -->
     <link href="/js/fontawesome/css/fontawesome.min.css" rel="stylesheet" type="text/css">
     <link href="https://fonts.googleapis.com/css?family=Lato:300,400,700,300italic,400italic,700italic" rel="stylesheet" type="text/css">
-
-    <!-- Custom styles for this template -->
     <link href="/css/landing-page.css" rel="stylesheet">
   </head>
 
@@ -60,7 +54,15 @@
       <div class="container">
         <div class="row">
           <div class="col-lg-5 ml-auto descript">
-            <img class="img-fluid" src="images/axl-mature.jpg" alt="Giant Schnauzer Skyline’s Party Like a Rock Star Axl" title="Skyline’s Party Like a Rock Star Axl">
+          <img
+            class="img-fluid lazy"
+            sizes="(max-width: 467px) 100vw, 467px"
+            data-srcset="
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_200/giant-schnauzer-stacked-show-axl_ov3uua.jpg 200w,
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_324/giant-schnauzer-stacked-show-axl_ov3uua.jpg 324w,
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_467/giant-schnauzer-stacked-show-axl_ov3uua.jpg 467w"
+            data-src="https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_467/giant-schnauzer-stacked-show-axl_ov3uua.jpg"
+            alt="Giant Schnauzer Skyline’s Party Like a Rock Star Axl" title="Skyline’s Party Like a Rock Star Axl">
           </div>
           <div class ='col-lg-5 ml-auto descript'>
             <div class = "register-name">
@@ -89,7 +91,15 @@
       <div class="container">
         <div class="row">
           <div class="col-lg-5 ml-auto descript">
-            <img class="img-fluid" src="images/merlin.jpg" alt="Giant Schnauzer Int. Ch. Merlin de Pomerland RCI I Merlin" title="Giant Schnauzer Int. Ch. Merlin de Pomerland RCI I Merlin">
+          <img
+            class="img-fluid lazy"
+            sizes="(max-width: 467px) 100vw, 467px"
+            data-srcset="
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_200/giant-schnauzer-stacked-show-merlin_eaalux.jpg 200w,
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_324/giant-schnauzer-stacked-show-merlin_eaalux.jpg 324w,
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_467/giant-schnauzer-stacked-show-merlin_eaalux.jpg 467w"
+            data-src="https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_467/giant-schnauzer-stacked-show-merlin_eaalux.jpg"
+            alt="Giant Schnauzer Int. Ch. Merlin de Pomerland RCI I Merlin" title="Giant Schnauzer Int. Ch. Merlin de Pomerland RCI I Merlin">
           </div>
           <div class ='col-lg-5 ml-auto descript'>
             <div class="register-name">Int. Ch. Merlin de Pomerland RCI I</div>
@@ -118,7 +128,14 @@
       <div class="container">
         <div class="row">
           <div class="col-lg-5 ml-auto descript">
-            <img class="img-fluid" src="images/romanhome.jpg" alt="Giant Schnauzer Ch. Skyline’s Man O’ War Roman" title="Giant Schnauzer Ch. Skyline’s Man O’ War Roman">
+          <img
+            class="img-fluid lazy" alt="Giant Schnauzer Ch. Skyline’s Man O’ War Roman" title="Giant Schnauzer Ch. Skyline’s Man O’ War Roman"
+            sizes="(max-width: 467px) 100vw, 467px"
+            data-srcset="
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_200/giant-schnauzer-stacked-show-roman_jdjamc.jpg 200w,
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_324/giant-schnauzer-stacked-show-roman_jdjamc.jpg 324w,
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_467/giant-schnauzer-stacked-show-roman_jdjamc.jpg 467w"
+            data-src="https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_467/giant-schnauzer-stacked-show-roman_jdjamc.jpg">
           </div>
           <div class ='col-lg-5 ml-auto descript'>
             <div class="register-name">Ch. Skyline’s Man O’ War</div>
@@ -146,7 +163,14 @@
       <div class="container">
         <div class="row">
           <div class="col-lg-5 ml-auto descript">
-            <img class="img-fluid" src="images/fiina.jpg" alt="Giant Schnauzer Fiina" title="Giant Schnauzer Fiina">
+          <img
+            sizes="(max-width: 467px) 100vw, 467px"
+            data-srcset="
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_200/giant-schnauzer-stacked-show-fiina_y9nb0n.jpg 200w,
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_324/giant-schnauzer-stacked-show-fiina_y9nb0n.jpg 324w,
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_467/giant-schnauzer-stacked-show-fiina_y9nb0n.jpg 467w"
+            data-src="https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_467/giant-schnauzer-stacked-show-fiina_y9nb0n.jpg"
+            class="img-fluid lazy" alt="Giant Schnauzer Fiina" title="Giant Schnauzer Fiina">
           </div>
           <div class ='col-lg-5 ml-auto descript'>
             <div class="register-name">Ch. Stablemaster’s Faidra</div>
@@ -174,7 +198,14 @@
       <div class="container">
         <div class="row">
           <div class="col-lg-5 ml-auto descript">
-            <img class="img-fluid" src="images/nala.jpg" alt="Giant Schnauzer Nala Ch. Skyline's Nothing Else Matters" title="Giant Schnauzer Nala Ch. Skyline's Nothing Else Matters">
+          <img
+            sizes="(max-width: 467px) 100vw, 467px"
+            data-srcset="
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_200/giant-schnauzer-stacked-show-nala_gkg00h.jpg 200w,
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_324/giant-schnauzer-stacked-show-nala_gkg00h.jpg 324w,
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_467/giant-schnauzer-stacked-show-nala_gkg00h.jpg 467w"
+            data-src="https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_467/giant-schnauzer-stacked-show-nala_gkg00h.jpg"
+            class="img-fluid lazy" alt="Giant Schnauzer Nala Ch. Skyline's Nothing Else Matters" title="Giant Schnauzer Nala Ch. Skyline's Nothing Else Matters">
           </div>
           <div class ='col-lg-5 ml-auto descript'>
             <div class="register-name">Ch. Skyline's Nothing Else Matters</div>
@@ -202,7 +233,14 @@
       <div class="container">
         <div class="row">
           <div class="col-lg-5 ml-auto descript">
-            <img class="img-fluid" src="images/trent2.jpg" alt="Giant Schnauzer Ch. Skyline's Nine Inch Nails Trent" title="Giant Schnauzer Ch. Skyline's Nine Inch Nails Trent">
+          <img
+            sizes="(max-width: 467px) 100vw, 467px"
+            data-srcset="
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_200/giant-schnauzer-stacked-show-trent_vldxcj.jpg 200w,
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_324/giant-schnauzer-stacked-show-trent_vldxcj.jpg 324w,
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_467/giant-schnauzer-stacked-show-trent_vldxcj.jpg 467w"
+            data-src="https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_467/giant-schnauzer-stacked-show-trent_vldxcj.jpg"
+            class="img-fluid lazy" alt="Giant Schnauzer Ch. Skyline's Nine Inch Nails Trent" title="Giant Schnauzer Ch. Skyline's Nine Inch Nails Trent">
           </div>
           <div class ='col-lg-5 ml-auto descript'>
             <div class="register-name">Ch. Skyline's Nine Inch Nails</div>
@@ -230,7 +268,14 @@
       <div class="container">
         <div class="row">
           <div class="col-lg-5 ml-auto descript">
-            <img class="img-fluid" src="images/quest.jpg" alt="Giant Schnauzer Skyline’s Quest For Perfection Quest" title="Giant Schnauzer Skyline’s Quest For Perfection Quest">
+          <img
+          sizes="(max-width: 467px) 100vw, 467px"
+            data-srcset="
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_200/giant-schnauzer-stacked-show-quest_jp1ivu.jpg 200w,
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_324/giant-schnauzer-stacked-show-quest_jp1ivu.jpg 324w,
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_467/giant-schnauzer-stacked-show-quest_jp1ivu.jpg 467w"
+            data-src="https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_467/giant-schnauzer-stacked-show-quest_jp1ivu.jpg"
+            class="img-fluid lazy" alt="Giant Schnauzer Skyline’s Quest For Perfection Quest" title="Giant Schnauzer Skyline’s Quest For Perfection Quest">
           </div>
           <div class ='col-lg-5 ml-auto descript'>
             <div class="register-name">Skyline’s Quest For Perfection</div>
@@ -254,18 +299,14 @@
     </section>
 
     <?php include "socialmediabanner.php";?>
-    <!-- /.banner -->
-    <!-- Footer -->
-    <?php include "footer.php"; ?>
+    <?php include "footer.php";?>
 
     <!-- Bootstrap core JavaScript -->
     <script src="/js/jquery/jquery.min.js"></script>
     <script src="/js/popper/popper.min.js"></script>
     <script src="/js/bootstrap/js/bootstrap.min.js"></script>
-
-    <script src="/js/lib/jquery.reflection.js"></script>
-    <script src="/js/lib/jquery.cloud9carousel.js"></script>
-
+    <script src="https://polyfill.io/v2/polyfill.min.js?features=IntersectionObserver"></script>
+    <script src="/js/lazyload.js"></script>
   </body>
 
 </html>

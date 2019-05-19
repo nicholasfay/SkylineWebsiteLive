@@ -39,7 +39,7 @@ h6 {
   padding-bottom: 50px;
   text-align: center;
   color: #f8f8f8;
-  background: url(../images/westminister.jpg) no-repeat center center;
+  background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_1400/giant-schnauzer-westminister-show_uwt7ib.jpg) no-repeat center center;
   background-size: cover;
 }
 
@@ -123,9 +123,9 @@ h6 {
 }
 
 .video-center {
-    margin-left: auto;
-    margin-right: auto;
-    display: block
+  margin-left: auto;
+  margin-right: auto;
+  display: block
 }
 
 .intro-message {
@@ -218,9 +218,110 @@ td {
 .banner {
   padding: 100px 0;
   color: #f8f8f8;
-  background: url(../images/romanhome.jpg) no-repeat center center;
+  background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_1400/giant-schnauzer-stacked-show-roman_jdjamc.jpg) no-repeat center center;
   background-size: cover;
 }
+
+@media(max-width:200px) {
+  .banner {
+    background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_200/giant-schnauzer-stacked-show-roman_jdjamc.jpg) no-repeat center center;
+  }
+
+  .ourdogs-header {
+    background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_200/giant-schnauzer-westminister-show_uwt7ib.jpg) no-repeat center center;
+  }
+}
+
+@media(max-width:344px) {
+  .banner {
+    background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_344/giant-schnauzer-stacked-show-roman_jdjamc.jpg) no-repeat center center;
+  }
+
+  .ourdogs-header {
+    background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_344/giant-schnauzer-westminister-show_uwt7ib.jpg) no-repeat center center;
+  }
+}
+
+@media(max-width:453px) {
+  .banner {
+    background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_453/giant-schnauzer-stacked-show-roman_jdjamc.jpg) no-repeat center center;
+  }
+
+  .ourdogs-header {
+    background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_453/giant-schnauzer-westminister-show_uwt7ib.jpg) no-repeat center center;
+  }
+}
+
+@media(max-width:636px) {
+  .banner {
+    background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_636/giant-schnauzer-stacked-show-roman_jdjamc.jpg) no-repeat center center;
+  }
+
+  .ourdogs-header {
+    background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_636/giant-schnauzer-westminister-show_uwt7ib.jpg) no-repeat center center;
+  }
+}
+
+@media(max-width:846px) {
+  .banner {
+    background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_846/giant-schnauzer-stacked-show-roman_jdjamc.jpg) no-repeat center center;
+  }
+
+  .ourdogs-header {
+    background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_846/giant-schnauzer-westminister-show_uwt7ib.jpg) no-repeat center center;
+  }
+}
+
+@media(max-width:971px) {
+  .banner {
+    background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_971/giant-schnauzer-stacked-show-roman_jdjamc.jpg) no-repeat center center;
+  }
+
+  .ourdogs-header {
+    background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_971/giant-schnauzer-westminister-show_uwt7ib.jpg) no-repeat center center;
+  }
+}
+
+@media(max-width:1027px) {
+  .banner {
+    background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_1027/giant-schnauzer-stacked-show-roman_jdjamc.jpg) no-repeat center center;
+  }
+
+  .ourdogs-header {
+    background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_1027/giant-schnauzer-westminister-show_uwt7ib.jpg) no-repeat center center;
+  }
+}
+
+@media(max-width:1141px) {
+  .banner {
+    background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_1141/giant-schnauzer-stacked-show-roman_jdjamc.jpg) no-repeat center center;
+  }
+
+  .ourdogs-header {
+    background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_1141/giant-schnauzer-westminister-show_uwt7ib.jpg) no-repeat center center;
+  }
+}
+
+@media(max-width:1255px) {
+  .banner {
+    background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_1255/giant-schnauzer-stacked-show-roman_jdjamc.jpg) no-repeat center center;
+  }
+
+  .ourdogs-header {
+    background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_1255/giant-schnauzer-westminister-show_uwt7ib.jpg) no-repeat center center;
+  }
+}
+
+@media(max-width:1400px) {
+  .banner {
+    background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_1400/giant-schnauzer-stacked-show-roman_jdjamc.jpg) no-repeat center center;
+  }
+
+  .ourdogs-header {
+    background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_1400/giant-schnauzer-westminister-show_uwt7ib.jpg) no-repeat center center;
+  }
+}
+
 
 .banner h2 {
   margin: 0;
