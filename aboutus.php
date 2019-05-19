@@ -8,7 +8,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>About Us - Skyline Giant Schnauzers</title>
+    <title>Aboout Us - Skyline Giant Schnauzers</title>
 
     <!-- Bootstrap core css -->
     <link href="/js/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -28,7 +28,7 @@
     <header class="aboutus-header">
       <div class="container">
         <div class="intro-message">
-          <h1>About Skyline Giant Schnauzers and The Humans They Own</h1>
+          <h1>Aboout Skyline Giant Schnauzers and The Humans They Own</h1>
           <hr class="intro-divider">
           <ul class="list-inline intro-social-buttons">
             <li class="list-inline-item">
