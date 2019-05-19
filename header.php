@@ -26,14 +26,22 @@
             <a class="nav-link" href="questionnaire.php">Questionnaire</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="ownerstories.php">Owner Stories</a>
+            <div class="d-flex flex-column align-items-center">
+              <a class="nav-link" href="ownerstories.php">Owner Stories</a>
+              <div>UPDATED</div>
+            </div>
           </li>
           <li class="dropdown">
             <a class ="nav-link" href="#" class="dropdown-toggle" data-toggle="dropdown"  role="button" aria-haspopup="true" aria-expanded="false">Dog Availability  &#9660</a>
             <ul class="dropdown-menu">
               <li class="nav-item"><a class ="nav-link" href="puppiesavail.php#">Puppies Available</a></li>
               <li class="nav-item"><a class ="nav-link" href="adultsavail.php#">Adults Available</a></li>
-              <li class="nav-item"><a class ="nav-link" href="litterannouncement.php#">Litter Announcement</a></li>
+              <li class="nav-item">
+              <div class="d-flex flex-column align-items-center">
+                <a class ="nav-link" href="litterannouncement.php#">Litter Announcement</a>
+                <div>UPDATED</div>
+              </div>
+              </li>
             </ul>
           </li>
           <li class="dropdown">

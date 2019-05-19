@@ -58,12 +58,12 @@
     <!-- Page Content -->
     <section class="content-section-a">
       <div class="container">
-        <div align="center" class="row text-center">
-            <video class="video-center" autoplay controls loop muted>
+        <div class="text-center">
+            <!-- <video class="video-center" autoplay controls loop muted>
               <source src="videos/litter-announce-3-31-19.mp4" type="video/mp4">
               Your browser does not support the video tag.
-            </video>
-          <!-- <img src="images/breeding2018.jpg"/> -->
+            </video> -->
+          <img src="images/giant-schnauzer-expecting-puppies.jpg"/>
           <!--<div class="descript margin-bottom">No litters to announce at this time.</div>-->
         </div>
       </div>

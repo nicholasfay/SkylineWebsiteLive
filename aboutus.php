@@ -29,7 +29,7 @@
     <header class="aboutus-header">
       <div class="container">
         <div class="intro-message">
-          <h1>About Skyline Giant Schnauzers and The Humans They Own</h1>
+          <h1>About Skyline Giant Schnauzers</h1>
           <hr class="intro-divider">
           <ul class="list-inline intro-social-buttons">
             <li class="list-inline-item">
