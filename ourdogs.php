@@ -19,8 +19,6 @@
 
     <!-- Custom styles for this template -->
     <link href="/css/landing-page.css" rel="stylesheet">
-    <link rel="stylesheet" type="text/css" href="/js/slick/slick.css"/>
-    <link rel="stylesheet" type="text/css" href="/js/slick/slick-theme.css"/>
   </head>
 
   <body>
@@ -266,8 +264,6 @@
 
     <script src="/js/lib/jquery.reflection.js"></script>
     <script src="/js/lib/jquery.cloud9carousel.js"></script>
-    <script type="text/javascript" src="/js/slick/slick.min.js"></script>
-    <script src="/js/carousel.js"></script>
 
   </body>
 
