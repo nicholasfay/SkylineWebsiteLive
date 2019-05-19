@@ -472,12 +472,12 @@
         </div>
         <div class="row">
           <div class="descript">
-          The journey has been an amazing one, starting day one being welcomed into the Fay family home and spending the day surrounded by the most beautiful crew of Giants you could ever wish to meet. Fast-forward years later to the two beautiful Giants that we are so happy to share our lives with every day. Willow came to us first. Serendipity. Meant to be. She is the epitome of everything a Giant girl should be.  She is sweet, funny, absolutely beautiful, and comes equipped with just the right amount of sass.  Her athleticism and ball drive are amazing.  She is beautiful to watch as she effortlessly jumps high into the air to catch her favorite ball instead of waiting for it to hit the ground, and as she trots and runs, so gracefully, as if she is gliding on air. She is indeed the queen, and yes, our lives do revolve around her. Brando came to us next. He is the sweetest, kindest, most loving boy and is such a joy to be with.  He makes us laugh every day.  He is a big handsome hunk and just melts your heart.  He will show his love at any moment by sitting and leaning on you, or by putting his whole body in your lap and his head on your chest.  Yes, he still believes he is little, and that he can absolutely fit.  We love every minute of it.  He loves to play “chase and be chased” with his auntie Willow and the two of them have carved their favorite track into the ground.  It serves as the mark of two very fun loving and happy Giants. Both of them have been the absolute stars of their puppy K, obedience, and family group training classes.  The trainers in all of our classes have utilized both Willow and Brando as examples to demonstrate behaviors and activities to the rest of the class.  Brando learned conformation in breed handling class at a very young age.  As a puppy he amazed us with his ability to be calm and focus on me and practice his moves and his free stack despite many, and sometimes “wild”, distractions that would occur around us in class.  He got his feet wet in the show ring in the puppy class 9 – 12 months and then in the 12 – 18 month dog class, participating in various shows over last summer and fall, including the Nationals.  Such a big deal for such a young dog and he took everything in stride and made us so proud. We have been so proud of both Willow and Brando no matter what we are doing or where we are.  Whether we’re out visiting friends and their dogs, taking them on hikes, attending dog shows, travelling and staying in hotels, walking through a large crowded festival or strolling the farmers market, or cruising on the ferry across the sound, they are always welcomed and enjoyed by all that they meet.  And everyone wants to meet them.   It may take us longer to get around when people keep stopping us to meet “the beautiful Giant Schnauzers”, but we don’t mind.  We are very proud to have these two special souls and love how they are so well mannered, and put a smile on the face of every new person they meet.  Willow and Brando have, by far, the best temperaments of any dogs we have ever owned. Our love for these two runs deep, and their love and loyalty to us runs deep right back. Tonilyn and Billy – we can’t thank you enough for the love, care, hard work and level of dedication you put into raising and preserving this special breed, and how you do so in a way that far surpasses any out there. The ongoing support and mentoring that you make available to the families of your dogs for their lifetime is amazing.   We thank you for entrusting us with Willow and Brando and we cannot imagine our lives without them.  The meaning of the term “heart dog” has been realized. 
+          The journey has been an amazing one, starting day one being welcomed into the Fay family home and spending the day surrounded by the most beautiful crew of Giants you could ever wish to meet. Fast-forward years later to the two beautiful Giants that we are so happy to share our lives with every day. Willow came to us first. Serendipity. Meant to be. She is the epitome of everything a Giant girl should be.  She is sweet, funny, absolutely beautiful, and comes equipped with just the right amount of sass.  Her athleticism and ball drive are amazing.  She is beautiful to watch as she effortlessly jumps high into the air to catch her favorite ball instead of waiting for it to hit the ground, and as she trots and runs, so gracefully, as if she is gliding on air. She is indeed the queen, and yes, our lives do revolve around her. Brando came to us next. He is the sweetest, kindest, most loving boy and is such a joy to be with.  He makes us laugh every day.  He is a big handsome hunk and just melts your heart.  He will show his love at any moment by sitting and leaning on you, or by putting his whole body in your lap and his head on your chest.  Yes, he still believes he is little, and that he can absolutely fit.  We love every minute of it.  He loves to play “chase and be chased” with his auntie Willow and the two of them have carved their favorite track into the ground.  It serves as the mark of two very fun loving and happy Giants. Both of them have been the absolute stars of their puppy K, obedience, and family group training classes.  The trainers in all of our classes have utilized both Willow and Brando as examples to demonstrate behaviors and activities to the rest of the class.  Brando learned conformation in breed handling class at a very young age.  As a puppy he amazed us with his ability to be calm and focus on me and practice his moves and his free stack despite many, and sometimes “wild”, distractions that would occur around us in class.  He got his feet wet in the show ring in the puppy class 9 – 12 months and then in the 12 – 18 month dog class, participating in various shows over last summer and fall, including the Nationals.  Such a big deal for such a young dog and he took everything in stride and made us so proud. We have been so proud of both Willow and Brando no matter what we are doing or where we are.  Whether we’re out visiting friends and their dogs, taking them on hikes, attending dog shows, travelling and staying in hotels, walking through a large crowded festival or strolling the farmers market, or cruising on the ferry across the sound, they are always welcomed and enjoyed by all that they meet.  And everyone wants to meet them.   It may take us longer to get around when people keep stopping us to meet “the beautiful Giant Schnauzers”, but we don’t mind.  We are very proud to have these two special souls and love how they are so well mannered, and put a smile on the face of every new person they meet.  Willow and Brando have, by far, the best temperaments of any dogs we have ever owned. Our love for these two runs deep, and their love and loyalty to us runs deep right back. Tonilyn and Billy – we can’t thank you enough for the love, care, hard work and level of dedication you put into raising and preserving this special breed, and how you do so in a way that far surpasses any out there. The ongoing support and mentoring that you make available to the families of your dogs for their lifetime is amazing.   We thank you for entrusting us with Willow and Brando and we cannot imagine our lives without them.  The meaning of the term “heart dog” has been realized.
           </div>
         </div>
         <div class="row">
           <div class="descript">
-              Love, 
+              Love,
           </div>
         </div>
         <div class="row">
@@ -524,10 +524,63 @@
       </div>
     </section>
 
+     <!-- Owner Story 15 -->
+    <section class="content-section-a bg-color">
+
+      <div class="container">
+        <div class="row justify-content-center">
+          <p class="font-italic text-secondary large2">"I always wanted a giant schnauzer, from seeing them at a dog show years back. It was finally time!"</p>
+        </div>
+        <div class="row justify-content-center">
+          <div class="col-lg-2">
+            <img class="img-fluid" src="images/giant-schnauzer-puppy-sitting.jpg" alt="giant-schnauzer-puppy-sitting">
+          </div>
+          <div class="col-lg-2">
+            <img class="img-fluid" src="images/giant-schnauzer-tongue-hungry.jpg" alt="giant-schnauzer-tongue-hungry">
+          </div>
+          <div class="col-lg-2">
+            <img class="img-fluid" src="images/giant-schnauzer-beach-ferry.jpg" alt="giant-schnauzer-beach-ferry">
+          </div>
+          <div class="col-lg-2">
+            <img class="img-fluid" src="images/giant-schnauzer-puppy-agility-2.jpg" alt="giant-schnauzer-puppy-agility">
+          </div>
+          <div class="col-lg-2">
+            <img class="img-fluid" src="images/giant-schnauzer-puppy-agility.jpg" alt="giant-schnauzer-puppy-agility">
+          </div>
+        </div>
+        <div class="row">
+          <div class="descript">
+            I have had a few working dogs in the past (Sledding Malamutes, Obedience and protection trained Boxer & Cane Corso) so I felt I had some pretty good experience and was ready. I did my research, I tend to be particular with regards my fur children. I never believed that good looking dogs or lines involved in showing cannot work in all cases. I believe a dog can both look good to according to the standard and work, at least that’s has been my Goal and I found it at Skyline. For me Skyline Giant Schnauzer pups and dogs have superb balance in Structure (Solid, functional), Size (not too big, not to small) as well as Substance/Ability (Brains, diversity, willingness) Personality (Happy, guardian, friendly and loving).
+          </div>
+        </div>
+        <div class="row">
+          <div class="descript">
+            I came across Skyline Giant Schnauzer and Tonilyn during my interviews of my short list of breeders. I knew once I got more details and corresponded with Tonilyn I had found my GS breeder. From our initial mutual chats onward. Everything from what Tonilyn expected as a potential home she would trust her dogs to, to what my life style and plans were with my perspective pup. I knew I had found a champion for my dream GS. Tonilyn assisted in all aspect from select the specific puppy NOT just on cuteness, But even just as important to fit into my life style and plans for my new pup. Tonilyn has always been a very considerate and readily available, quick in responses back in coaching for me with Eclipse with everything from diet, ears, health, grooming (actually finding someone local where I live to teach me hands on), training to general chatting regarding updates etc.
+          </div>
+        </div>
+        <div class="row">
+          <div class="descript">
+            Eclipse my (Skyline GS), it took me awhile to even admit to myself, as I mentioned I’ve had a few great working breeds, Hands down the best for me all around dog I have had the pleasure to share a home and companionship with. Quality all around. People often ask me if he is a show dog. I chuckle and say no some of his many relatives are.  I call him my “Happy Dog”, family, companion and Sentry of our home. I can take Eclipse out for cocktails and dinner (They will draw a crowd with people wanting to meet them), allowing kids and people to pet him, while maintaining his poise, to warning me when there may be some concern for caution.
+          </div>
+        </div>
+        <div class="row">
+          <div class="descript">
+            Eclipse has proven to be not overly excitable, also no aggression or skittishness, He is confident and together. I can jog and walk  him pass a barking agitated dogs no problem,  he notices but stays on his square unshaken. We have started our journey of activities with the foundation of Obedience (on and off leash), agility, scent nose work and civil alert warning protection. We have many activities to good times a head!
+          </div>
+        </div>
+        <div class="row">
+          <div class="descript">
+            Enjoy Your Skyline Giant Schnauzer!
+          </div>
+        </div>
+        </div>
+      </div>
+    </section>
+
     <?php include "socialmediabanner.php";?>
     <!-- /.banner -->
     <!-- Footer -->
-    <?php include "footer.php"; ?>
+    <?php include "footer.php";?>
 
     <!-- Bootstrap core JavaScript -->
     <script src="/js/jquery/jquery.min.js"></script>
