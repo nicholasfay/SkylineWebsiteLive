@@ -65,7 +65,13 @@
         </div>
         <div class="row">
           <div class="descript">
-            <img class="img-fluid" src="images/walkinwdadsm.jpg" width = 600 height = 450 alt="">
+            <img class="img-fluid lazy" sizes="(max-width: 600px) 100vw, 600px"
+            data-srcset="
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_200/schnauzer-puppy-beach-family-walk_nqeutt.jpg 200w,
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_300/schnauzer-puppy-beach-family-walk_nqeutt.jpg 300w,
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_400/schnauzer-puppy-beach-family-walk_nqeutt.jpg 400w"
+            data-src="https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_600/schnauzer-puppy-beach-family-walk_nqeutt.jpg"
+            alt="Giant Schnauzer puppy at beach" title="Giant Schnauzer puppy at beach">
           </div>
         	<div class ="descript">
             Tonilyn,
@@ -89,7 +95,14 @@
         </div>
         <div class="row">
           <div class="descript">
-            <img class="img-fluid" src="images/puppyowner.jpg" width = 600 height = 450 alt="">
+          <img class="img-fluid lazy"
+            sizes="(max-width: 600px) 100vw, 600px"
+            data-srcset="
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_200/giant-schnauzer-adult-on-bed_thibcj.jpg 200w,
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_300/giant-schnauzer-adult-on-bed_thibcj.jpg 300w,
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_400/giant-schnauzer-adult-on-bed_thibcj.jpg 400w"
+            data-src="https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_400/giant-schnauzer-adult-on-bed_thibcj.jpg"
+            alt="Giant Schnauzer on bed" title="Giant Schnauzer on bed">
           </div>
           <div class ="descript">
             Tonilyn,
@@ -111,7 +124,13 @@
         </div>
         <div class="row">
           <div class="descript">
-            <img class="img-fluid" src="images/puphappyowner.jpg" width = 600 height = 450 alt="">
+          <img class="img-fluid lazy" sizes="(max-width: 600px) 100vw, 600px"
+            data-srcset="
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_200/giant-schnauzer-pup-on-bed_gazmyv.jpg 200w,
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_300/giant-schnauzer-pup-on-bed_gazmyv.jpg 300w,
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_400/giant-schnauzer-pup-on-bed_gazmyv.jpg 400w"
+            data-src="https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_600/giant-schnauzer-pup-on-bed_gazmyv.jpg"
+            alt="Giant Schnauzer puppy on bed" title="Giant Schnauzer puppy on bed">
           </div>
         </div>
 
@@ -128,18 +147,42 @@
         </div>
         <div class="row justify-content-center">
           <div class="col-md-4">
-            <img class="img-fluid" src="images/carlynewhome081.jpg" alt="">
+          <img class="img-fluid lazy" sizes="(max-width: 600px) 100vw, 600px"
+            data-srcset="
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_200/giant-schnauzer-sleeping-with-cat_ewkldu.jpg 200w,
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_300/giant-schnauzer-sleeping-with-cat_ewkldu.jpg 300w,
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_400/giant-schnauzer-sleeping-with-cat_ewkldu.jpg 400w"
+            data-src="https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_600/giant-schnauzer-sleeping-with-cat_ewkldu.jpg"
+            alt="Giant Schnauzer puppy on bed with cat" title="Giant Schnauzer puppy on bed with cat">
           </div>
           <div class="col-md-4">
-            <img class="img-fluid" src="images/carlynewhome082.jpg" alt="">
+          <img class="img-fluid lazy" sizes="(max-width: 600px) 100vw, 600px"
+            data-srcset="
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_200/giant-schnauzer-halloween-costume_ansiqq.jpg 200w,
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_300/giant-schnauzer-halloween-costume_ansiqq.jpg 300w,
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_400/giant-schnauzer-halloween-costume_ansiqq.jpg 400w"
+            data-src="https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_600/giant-schnauzer-halloween-costume_ansiqq.jpg"
+            alt="Giant Schnauzer puppy during halloween" title="Giant Schnauzer puppy during halloween">
           </div>
         </div>
         <div class="row justify-content-center">
           <div class="col-md-4">
-            <img class="img-fluid" src="images/carlynewhome083.jpg" alt="">
+          <img class="img-fluid lazy" sizes="(max-width: 600px) 100vw, 600px"
+            data-srcset="
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_200/giant-schnauzer-hug-family_bbqrzc.jpg 200w,
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_300/giant-schnauzer-hug-family_bbqrzc.jpg 300w,
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_400/giant-schnauzer-hug-family_bbqrzc.jpg 400w"
+            data-src="https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_600/giant-schnauzer-hug-family_bbqrzc.jpg"
+            alt="Giant Schnauzer puppy hugs" title="Giant Schnauzer puppy hugs">
           </div>
           <div class="col-md-4">
-            <img class="img-fluid" src="images/carlynewhome084.jpg" alt="">
+          <img class="img-fluid lazy" sizes="(max-width: 600px) 100vw, 600px"
+            data-srcset="
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_200/giant-schnauzer-puppy-family_xmizkw.jpg 200w,
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_300/giant-schnauzer-puppy-family_xmizkw.jpg 300w,
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_400/giant-schnauzer-puppy-family_xmizkw.jpg 400w"
+            data-src="https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_600/giant-schnauzer-puppy-family_xmizkw.jpg"
+            alt="Giant Schnauzer puppy with family" title="Giant Schnauzer puppy with family">
           </div>
         </div>
       </div>
@@ -154,7 +197,13 @@
         </div>
         <div class="row">
           <div class="descript">
-            <img class="img-fluid" src="images/denali.jpg" width = 600 height = 450 alt="">
+          <img class="img-fluid lazy" sizes="(max-width: 600px) 100vw, 600px"
+            data-srcset="
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_200/giant-schnauzer-puppy-hill-woods_vla1cx.jpg 200w,
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_300/giant-schnauzer-puppy-hill-woods_vla1cx.jpg 300w,
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_400/giant-schnauzer-puppy-hill-woods_vla1cx.jpg 400w"
+            data-src="https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_600/giant-schnauzer-puppy-hill-woods_vla1cx.jpg"
+            alt="Giant Schnauzer puppy on dirt hill" title="Giant Schnauzer puppy on dirt hill">
           </div>
           <div class ="descript">
             <div class="descript">February 12, 2009</div>
@@ -191,7 +240,13 @@
         </div>
         <div class="row justify-content-center" style="padding-top: 1vh;">
           <div class="col-md-4">
-            <img class="img-fluid" src="images/gunner1009.jpg" alt="">
+          <img class="img-fluid lazy" sizes="(max-width: 600px) 100vw, 600px"
+            data-srcset="
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_200/giant-schnauzer-puppy-cropped-sell_wftpjd.jpg 200w,
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_300/giant-schnauzer-puppy-cropped-sell_wftpjd.jpg 300w,
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_400/giant-schnauzer-puppy-cropped-sell_wftpjd.jpg 400w"
+            data-src="https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_600/giant-schnauzer-puppy-cropped-sell_wftpjd.jpg"
+            alt="Giant Schnauzer cropped puppy" title="Giant Schnauzer cropped puppy">
           </div>
           <div class="col-md-4">
             <div class="descript">
@@ -201,7 +256,13 @@
       </div>
       <div class="row justify-content-center" style="padding-top: 1vh;">
           <div class="col-md-4">
-            <img class="img-fluid" src="images/gunner1109.jpg" alt="">
+          <img class="img-fluid lazy" sizes="(max-width: 600px) 100vw, 600px"
+            data-srcset="
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_200/giant-schnauzer-puppy-cropped-sell2_b90pom.jpg 200w,
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_300/giant-schnauzer-puppy-cropped-sell2_b90pom.jpg 300w,
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_400/giant-schnauzer-puppy-cropped-sell2_b90pom.jpg 400w"
+            data-src="https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_600/giant-schnauzer-puppy-cropped-sell2_b90pom.jpg"
+            alt="Giant Schnauzer cropped puppy" title="Giant Schnauzer cropped puppy">
           </div>
           <div class="col-md-4">
             <div class="descript">
@@ -211,7 +272,13 @@
       </div>
       <div class="row justify-content-center" style="padding-top: 1vh;">
           <div class="col-md-4">
-            <img class="img-fluid" src="images/gunnerplane09.jpg" alt="">
+            <img class="img-fluid lazy" sizes="(max-width: 600px) 100vw, 600px"
+            data-srcset="
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_200/giant-schnauzer-puppy-airplane-wing_nm9y81.jpg 200w,
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_300/giant-schnauzer-puppy-airplane-wing_nm9y81.jpg 300w,
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_400/giant-schnauzer-puppy-airplane-wing_nm9y81.jpg 400w"
+            data-src="https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_600/giant-schnauzer-puppy-airplane-wing_nm9y81.jpg"
+            alt="Giant Schnauzer cropped puppy" title="Giant Schnauzer cropped puppy">
           </div>
           <div class="col-md-4">
             <div class="descript">
@@ -231,7 +298,13 @@
         </div>
         <div class="row">
           <div class="descript">
-            <img class="img-fluid" src="images/boysandwinzig.jpg" width = 600 height = 450 alt="">
+          <img class="img-fluid lazy" sizes="(max-width: 600px) 100vw, 600px"
+            data-srcset="
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_200/giant-schnauzer-puppy-family-beach_xgxbfr.jpg 200w,
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_300/giant-schnauzer-puppy-family-beach_xgxbfr.jpg 300w,
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_400/giant-schnauzer-puppy-family-beach_xgxbfr.jpg 400w"
+            data-src="https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_600/giant-schnauzer-puppy-family-beach_xgxbfr.jpg"
+            alt="Giant Schnauzer cropped puppy" title="Giant Schnauzer cropped puppy">
           </div>
         </div>
 
@@ -248,7 +321,13 @@
         </div>
         <div class="row">
           <div class="descript">
-            <img class="img-fluid" src="images/bellakahless.jpg" width = 600 height = 450 alt="">
+            <img class="img-fluid lazy" sizes="(max-width: 600px) 100vw, 600px"
+            data-srcset="
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_200/giant-schnauzer-adult-standing_odfgj1.jpg 200w,
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_300/giant-schnauzer-adult-standing_odfgj1.jpg 300w,
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_400/giant-schnauzer-adult-standing_odfgj1.jpg 400w"
+            data-src="https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_600/giant-schnauzer-adult-standing_odfgj1.jpg"
+            alt="Giant Schnauzer adults uncropped" title="Giant Schnauzer adults uncropped">
           </div>
         </div>
         <div class="row">
@@ -277,10 +356,22 @@
         </div>
         <div class="row justify-content-center">
           <div class="col-md-4">
-            <img class="img-fluid" src="images/dutch92510.jpg" alt="">
+          <img class="img-fluid lazy" sizes="(max-width: 600px) 100vw, 600px"
+            data-srcset="
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_200/giant-schnauzer-sitting-adult_ggvl8d.jpg 200w,
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_300/giant-schnauzer-sitting-adult_ggvl8d.jpg 300w,
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_400/giant-schnauzer-sitting-adult_ggvl8d.jpg 400w"
+            data-src="https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_600/giant-schnauzer-sitting-adult_ggvl8d.jpg"
+            alt="Giant Schnauzer adult sitting" title="Giant Schnauzer adult sitting">
           </div>
           <div class="col-md-4">
-            <img class="img-fluid" src="images/dutch925102.jpg" alt="">
+          <img class="img-fluid lazy" sizes="(max-width: 600px) 100vw, 600px"
+            data-srcset="
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_200/giant-schnauzer-puppy-family-outdoors_qpeao6.jpg 200w,
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_300/giant-schnauzer-puppy-family-outdoors_qpeao6.jpg 300w,
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_400/giant-schnauzer-puppy-family-outdoors_qpeao6.jpg 400w"
+            data-src="https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_600/giant-schnauzer-puppy-family-outdoors_qpeao6.jpg"
+            alt="Giant Schnauzer puppy with family" title="Giant Schnauzer puppy with family">
           </div>
         </div>
         <div class="row">
@@ -323,13 +414,31 @@
         </div>
         <div class="row justify-content-center">
           <div class="col-md-3">
-            <img class="img-fluid" src="images/malehappy1.jpg" alt="">
+          <img class="img-fluid lazy" sizes="(max-width: 600px) 100vw, 600px"
+            data-srcset="
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_200/giant-schnauzer-puppy-laying-down_vif7zh.jpg 200w,
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_300/giant-schnauzer-puppy-laying-down_vif7zh.jpg 300w,
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_400/giant-schnauzer-puppy-laying-down_vif7zh.jpg 400w"
+            data-src="https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_600/giant-schnauzer-puppy-laying-down_vif7zh.jpg"
+            alt="Giant Schnauzer puppy" title="Giant Schnauzer puppy">
           </div>
           <div class="col-md-3">
-            <img class="img-fluid" src="images/malehappy2.jpg" alt="">
+          <img class="img-fluid lazy" sizes="(max-width: 600px) 100vw, 600px"
+            data-srcset="
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_200/giant-schnauzer-puppy-laying-down2_htfb9w.jpg 200w,
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_300/giant-schnauzer-puppy-laying-down2_htfb9w.jpg 300w,
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_400/giant-schnauzer-puppy-laying-down2_htfb9w.jpg 400w"
+            data-src="https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_600/giant-schnauzer-puppy-laying-down2_htfb9w.jpg"
+            alt="Giant Schnauzer puppy" title="Giant Schnauzer puppy">
           </div>
           <div class="col-md-3">
-            <img class="img-fluid" src="images/malehappy3.jpg" alt="">
+          <img class="img-fluid lazy" sizes="(max-width: 600px) 100vw, 600px"
+            data-srcset="
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_200/giant-schnauzer-puppy-sitting2_hbk9hb.jpg 200w,
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_300/giant-schnauzer-puppy-sitting2_hbk9hb.jpg 300w,
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_400/giant-schnauzer-puppy-sitting2_hbk9hb.jpg 400w"
+            data-src="https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_600/giant-schnauzer-puppy-sitting2_hbk9hb.jpg"
+            alt="Giant Schnauzer puppy" title="Giant Schnauzer puppy">
           </div>
         </div>
         <div class="row" style="padding-top: 5vh;"">
@@ -370,13 +479,31 @@
         </div>
         <div class="row justify-content-center">
           <div class="col-lg-2">
-            <img class="img-fluid" src="images/IMG_6437.jpg" alt="">
+          <img class="img-fluid lazy" sizes="(max-width: 600px) 100vw, 600px"
+            data-srcset="
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_200/giant-schnauzer-puppy-family2_iaepos.jpg 200w,
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_300/giant-schnauzer-puppy-family2_iaepos.jpg 300w,
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_400/giant-schnauzer-puppy-family2_iaepos.jpg 400w"
+            data-src="https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_600/giant-schnauzer-puppy-family2_iaepos.jpg"
+            alt="Giant Schnauzer puppy with family" title="Giant Schnauzer puppy with family">
           </div>
           <div class="col-lg-2">
-            <img class="img-fluid" src="images/IMG_2347.jpg" alt="">
+          <img class="img-fluid lazy" sizes="(max-width: 600px) 100vw, 600px"
+            data-srcset="
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_200/giant-schnauzer-family-home_evrgnl.jpg 200w,
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_300/giant-schnauzer-family-home_evrgnl.jpg 300w,
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_400/giant-schnauzer-family-home_evrgnl.jpg 400w"
+            data-src="https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_600/giant-schnauzer-family-home_evrgnl.jpg"
+            alt="Giant Schnauzer puppy" title="Giant Schnauzer puppy">
           </div>
           <div class="col-lg-2">
-            <img class="img-fluid" src="images/IMG_5143.jpg" alt="">
+          <img class="img-fluid lazy" sizes="(max-width: 600px) 100vw, 600px"
+            data-srcset="
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_200/giant-schnauzer-family-cuddling_azm4xs.jpg 200w,
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_300/giant-schnauzer-family-cuddling_azm4xs.jpg 300w,
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_400/giant-schnauzer-family-cuddling_azm4xs.jpg 400w"
+            data-src="https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_600/giant-schnauzer-family-cuddling_azm4xs.jpg"
+            alt="Giant Schnauzer puppy" title="Giant Schnauzer puppy">
           </div>
         </div>
         <div class="row">
@@ -406,22 +533,52 @@
         </div>
         <div class="row justify-content-center">
           <div class="col-md-3">
-            <img class="img-fluid" src="images/ownercoop1.jpeg" alt="">
+          <img class="img-fluid lazy" sizes="(max-width: 600px) 100vw, 600px"
+            data-srcset="
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_200/giant-schnauzer-family-sleeping_wmotko.jpg 200w,
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_300/giant-schnauzer-family-sleeping_wmotko.jpg 300w,
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_400/giant-schnauzer-family-sleeping_wmotko.jpg 400w"
+            data-src="https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_600/giant-schnauzer-family-sleeping_wmotko.jpg"
+            alt="Giant Schnauzer puppy sleeping" title="Giant Schnauzer puppy sleeping">
           </div>
           <div class="col-md-3">
-            <img class="img-fluid" src="images/ownercoop2.jpeg" alt="">
+          <img class="img-fluid lazy" sizes="(max-width: 600px) 100vw, 600px"
+            data-srcset="
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_200/giant-schnauzer-cute-food-baby_ppituz.jpg 200w,
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_300/giant-schnauzer-cute-food-baby_ppituz.jpg 300w,
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_400/giant-schnauzer-cute-food-baby_ppituz.jpg 400w"
+            data-src="https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_600/giant-schnauzer-cute-food-baby_ppituz.jpg"
+            alt="Giant Schnauzer puppy" title="Giant Schnauzer puppy">
           </div>
         </div>
         <div class="row justify-content-center">
           <div class="col-md-3">
-            <img class="img-fluid" src="images/ownercoop3.jpeg" alt="">
+          <img class="img-fluid lazy" sizes="(max-width: 600px) 100vw, 600px"
+            data-srcset="
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_200/giant-schnauzer-baby-cuddles_k3yjbu.jpg 200w,
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_300/giant-schnauzer-baby-cuddles_k3yjbu.jpg 300w,
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_400/giant-schnauzer-baby-cuddles_k3yjbu.jpg 400w"
+            data-src="https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_600/giant-schnauzer-baby-cuddles_k3yjbu.jpg"
+            alt="Giant Schnauzer puppy baby cuddles" title="Giant Schnauzer puppy baby cuddles">
           </div>
           <div class="col-md-3">
-            <img class="img-fluid" src="images/ownercoop4.jpeg" alt="">
+          <img class="img-fluid lazy" sizes="(max-width: 600px) 100vw, 600px"
+            data-srcset="
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_200/giant-schnauzer-baby-cuddles3_csizq7.jpg 200w,
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_300/giant-schnauzer-baby-cuddles3_csizq7.jpg 300w,
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_400/giant-schnauzer-baby-cuddles3_csizq7.jpg 400w"
+            data-src="https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_600/giant-schnauzer-baby-cuddles3_csizq7.jpg"
+            alt="Giant Schnauzer puppy baby cuddles" title="Giant Schnauzer puppy baby cuddles">
           </div>
         </div>
         <div class="row justify-content-center">
-          <img class="img-fluid" src="images/ownercoop5.jpeg"alt="">
+        <img class="img-fluid lazy" sizes="(max-width: 600px) 100vw, 600px"
+            data-srcset="
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_200/giant-schnauzer-baby-cuddles2_ebtcnh.jpg 200w,
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_300/giant-schnauzer-baby-cuddles2_ebtcnh.jpg 300w,
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_400/giant-schnauzer-baby-cuddles2_ebtcnh.jpg 400w"
+            data-src="https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_600/giant-schnauzer-baby-cuddles2_ebtcnh.jpg"
+            alt="Giant Schnauzer puppy baby cuddles" title="Giant Schnauzer puppy baby cuddles">
         </div>
         <div class="row">
           <div class="descript">
@@ -467,7 +624,13 @@
         </div>
         <div class="row justify-content-center">
           <div class="col-lg-2">
-            <img class="img-fluid" src="images/willow.jpg" alt="">
+          <img class="img-fluid lazy" sizes="(max-width: 600px) 100vw, 600px"
+            data-srcset="
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_200/giant-schnauzer-puppy-fall_kzivcn.jpg 200w,
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_300/giant-schnauzer-puppy-fall_kzivcn.jpg 300w,
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_400/giant-schnauzer-puppy-fall_kzivcn.jpg 400w"
+            data-src="https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_600/giant-schnauzer-puppy-fall_kzivcn.jpg"
+            alt="Giant Schnauzer puppy fall" title="Giant Schnauzer puppy fall">
           </div>
         </div>
         <div class="row">
@@ -497,13 +660,31 @@
         </div>
         <div class="row justify-content-center">
           <div class="col-lg-2">
-            <img class="img-fluid" src="images/test13-1.jpg" alt="">
+          <img class="img-fluid lazy" sizes="(max-width: 600px) 100vw, 600px"
+            data-srcset="
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_200/giant-schnauzer-winter-baby_a0lprs.jpg 200w,
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_300/giant-schnauzer-winter-baby_a0lprs.jpg 300w,
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_400/giant-schnauzer-winter-baby_a0lprs.jpg 400w"
+            data-src="https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_600/giant-schnauzer-winter-baby_a0lprs.jpg"
+            alt="Giant Schnauzer puppy winter" title="Giant Schnauzer puppy winter">
           </div>
           <div class="col-lg-2">
-            <img class="img-fluid" src="images/test13-2.jpg" alt="">
+          <img class="img-fluid lazy" sizes="(max-width: 600px) 100vw, 600px"
+            data-srcset="
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_200/giant-schnauzer-family-beach-photo_cv1pji.jpg 200w,
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_300/giant-schnauzer-family-beach-photo_cv1pji.jpg 300w,
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_400/giant-schnauzer-family-beach-photo_cv1pji.jpg 400w"
+            data-src="https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_600/giant-schnauzer-family-beach-photo_cv1pji.jpg"
+            alt="Giant Schnauzer puppy summer" title="Giant Schnauzer puppy summer">
           </div>
           <div class="col-lg-2">
-            <img class="img-fluid" src="images/test13-3.jpg" alt="">
+          <img class="img-fluid lazy" sizes="(max-width: 600px) 100vw, 600px"
+            data-srcset="
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_200/giant-schnauzer-yard-pool-summmer_lkfrqj.jpg 200w,
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_300/giant-schnauzer-yard-pool-summmer_lkfrqj.jpg 300w,
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_400/giant-schnauzer-yard-pool-summmer_lkfrqj.jpg 400w"
+            data-src="https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_600/giant-schnauzer-yard-pool-summmer_lkfrqj.jpg"
+            alt="Giant Schnauzer puppy summer pool" title="Giant Schnauzer puppy summer pool">
           </div>
         </div>
         <div class="row">
@@ -533,19 +714,49 @@
         </div>
         <div class="row justify-content-center">
           <div class="col-lg-2">
-            <img class="img-fluid" src="images/giant-schnauzer-puppy-sitting.jpg" alt="giant-schnauzer-puppy-sitting">
+          <img class="img-fluid lazy" sizes="(max-width: 600px) 100vw, 600px"
+            data-srcset="
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_200/giant-schnauzer-puppy-sitting_d5mols.jpg 200w,
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_300/giant-schnauzer-puppy-sitting_d5mols.jpg 300w,
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_400/giant-schnauzer-puppy-sitting_d5mols.jpg 400w"
+            data-src="https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_600/giant-schnauzer-puppy-sitting_d5mols.jpg"
+            alt="Giant Schnauzer puppy cropped" title="Giant Schnauzer puppy cropped">
           </div>
           <div class="col-lg-2">
-            <img class="img-fluid" src="images/giant-schnauzer-tongue-hungry.jpg" alt="giant-schnauzer-tongue-hungry">
+          <img class="img-fluid lazy" sizes="(max-width: 600px) 100vw, 600px"
+            data-srcset="
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_200/giant-schnauzer-tongue-hungry_b0q91w.jpg 200w,
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_300/giant-schnauzer-tongue-hungry_b0q91w.jpg 300w,
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_400/giant-schnauzer-tongue-hungry_b0q91w.jpg 400w"
+            data-src="https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_600/giant-schnauzer-tongue-hungry_b0q91w.jpg"
+            alt="Giant Schnauzer puppy cropped" title="Giant Schnauzer puppy cropped">
           </div>
           <div class="col-lg-2">
-            <img class="img-fluid" src="images/giant-schnauzer-beach-ferry.jpg" alt="giant-schnauzer-beach-ferry">
+          <img class="img-fluid lazy" sizes="(max-width: 600px) 100vw, 600px"
+            data-srcset="
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_200/giant-schnauzer-beach-ferry_gd7xqs.jpg 200w,
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_300/giant-schnauzer-beach-ferry_gd7xqs.jpg 300w,
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_400/giant-schnauzer-beach-ferry_gd7xqs.jpg 400w"
+            data-src="https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_600/giant-schnauzer-beach-ferry_gd7xqs.jpg"
+            alt="Giant Schnauzer puppy beach boat" title="Giant Schnauzer puppy beach boat">
           </div>
           <div class="col-lg-2">
-            <img class="img-fluid" src="images/giant-schnauzer-puppy-agility-2.jpg" alt="giant-schnauzer-puppy-agility">
+          <img class="img-fluid lazy" sizes="(max-width: 600px) 100vw, 600px"
+            data-srcset="
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_200/giant-schnauzer-puppy-agility_ekxljb.jpg 200w,
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_300/giant-schnauzer-puppy-agility_ekxljb.jpg 300w,
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_400/giant-schnauzer-puppy-agility_ekxljb.jpg 400w"
+            data-src="https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_600/giant-schnauzer-puppy-agility_ekxljb.jpg"
+            alt="Giant Schnauzer puppy agility cropped" title="Giant Schnauzer puppy agility cropped">
           </div>
           <div class="col-lg-2">
-            <img class="img-fluid" src="images/giant-schnauzer-puppy-agility.jpg" alt="giant-schnauzer-puppy-agility">
+          <img class="img-fluid lazy" sizes="(max-width: 600px) 100vw, 600px"
+            data-srcset="
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_200/giant-schnauzer-puppy-agility-2_zrt3p1.jpg 200w,
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_300/giant-schnauzer-puppy-agility-2_zrt3p1.jpg 300w,
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_400/giant-schnauzer-puppy-agility-2_zrt3p1.jpg 400w"
+            data-src="https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_600/giant-schnauzer-puppy-agility-2_zrt3p1.jpg"
+            alt="Giant Schnauzer puppy agility cropped" title="Giant Schnauzer puppy agility cropped">
           </div>
         </div>
         <div class="row">
@@ -578,14 +789,14 @@
     </section>
 
     <?php include "socialmediabanner.php";?>
-    <!-- /.banner -->
-    <!-- Footer -->
     <?php include "footer.php";?>
 
     <!-- Bootstrap core JavaScript -->
     <script src="/js/jquery/jquery.min.js"></script>
     <script src="/js/popper/popper.min.js"></script>
     <script src="/js/bootstrap/js/bootstrap.min.js"></script>
+    <script src="https://polyfill.io/v2/polyfill.min.js?features=IntersectionObserver"></script>
+    <script src="/js/lazyload.js"></script>
 
   </body>
 
