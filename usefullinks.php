@@ -101,8 +101,6 @@
     </section>
 
     <?php include "socialmediabanner.php";?>
-    <!-- /.banner -->
-    <!-- Footer -->
     <?php include "footer.php";?>
 
     <!-- Bootstrap core JavaScript -->

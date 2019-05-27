@@ -20,7 +20,7 @@ h6 {
   padding-bottom: 50px;
   text-align: center;
   color: #f8f8f8;
-  background: url(../images/romanhome.jpg) no-repeat center center;
+  background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_1400/giant-schnauzer-stacked-show-roman_jdjamc.jpg) no-repeat center center;
   background-size: cover;
 }
 
@@ -230,6 +230,10 @@ td {
   .ourdogs-header {
     background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_200/giant-schnauzer-westminister-show_uwt7ib.jpg) no-repeat center center;
   }
+
+  .intro-header {
+    background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_200/giant-schnauzer-westminister-show_uwt7ib.jpg) no-repeat center center;
+  }
 }
 
 @media(max-width:344px) {
@@ -238,6 +242,10 @@ td {
   }
 
   .ourdogs-header {
+    background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_344/giant-schnauzer-westminister-show_uwt7ib.jpg) no-repeat center center;
+  }
+
+  .intro-header {
     background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_344/giant-schnauzer-westminister-show_uwt7ib.jpg) no-repeat center center;
   }
 }
@@ -250,6 +258,10 @@ td {
   .ourdogs-header {
     background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_453/giant-schnauzer-westminister-show_uwt7ib.jpg) no-repeat center center;
   }
+
+  .intro-header {
+    background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_453/giant-schnauzer-westminister-show_uwt7ib.jpg) no-repeat center center;
+  }
 }
 
 @media(max-width:636px) {
@@ -258,6 +270,10 @@ td {
   }
 
   .ourdogs-header {
+    background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_636/giant-schnauzer-westminister-show_uwt7ib.jpg) no-repeat center center;
+  }
+
+  .intro-header {
     background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_636/giant-schnauzer-westminister-show_uwt7ib.jpg) no-repeat center center;
   }
 }
@@ -270,6 +286,10 @@ td {
   .ourdogs-header {
     background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_846/giant-schnauzer-westminister-show_uwt7ib.jpg) no-repeat center center;
   }
+
+  .intro-header {
+    background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_846/giant-schnauzer-westminister-show_uwt7ib.jpg) no-repeat center center;
+  }
 }
 
 @media(max-width:971px) {
@@ -278,6 +298,10 @@ td {
   }
 
   .ourdogs-header {
+    background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_971/giant-schnauzer-westminister-show_uwt7ib.jpg) no-repeat center center;
+  }
+
+  .intro-header {
     background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_971/giant-schnauzer-westminister-show_uwt7ib.jpg) no-repeat center center;
   }
 }
@@ -290,6 +314,10 @@ td {
   .ourdogs-header {
     background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_1027/giant-schnauzer-westminister-show_uwt7ib.jpg) no-repeat center center;
   }
+
+  .intro-header {
+    background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_1027/giant-schnauzer-westminister-show_uwt7ib.jpg) no-repeat center center;
+  }
 }
 
 @media(max-width:1141px) {
@@ -298,6 +326,10 @@ td {
   }
 
   .ourdogs-header {
+    background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_1141/giant-schnauzer-westminister-show_uwt7ib.jpg) no-repeat center center;
+  }
+
+  .intro-header {
     background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_1141/giant-schnauzer-westminister-show_uwt7ib.jpg) no-repeat center center;
   }
 }
@@ -310,6 +342,10 @@ td {
   .ourdogs-header {
     background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_1255/giant-schnauzer-westminister-show_uwt7ib.jpg) no-repeat center center;
   }
+
+  .intro-header {
+    background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_1255/giant-schnauzer-westminister-show_uwt7ib.jpg) no-repeat center center;
+  }
 }
 
 @media(max-width:1400px) {
@@ -318,6 +354,10 @@ td {
   }
 
   .ourdogs-header {
+    background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_1400/giant-schnauzer-westminister-show_uwt7ib.jpg) no-repeat center center;
+  }
+
+  .intro-header {
     background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_1400/giant-schnauzer-westminister-show_uwt7ib.jpg) no-repeat center center;
   }
 }

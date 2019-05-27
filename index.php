@@ -5,25 +5,19 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="Welcome to the Skyline Giant Schnauzers website. For those who love Giant Schnauzers, want to learn more about them and our breeding program.">
     <meta name="author" content="Nicholas Fay">
-    <meta property="og:image" content="images/standardgeneticconcernheader.jpg">
 
     <title>Skyline Giant Schnauzers</title>
     <link rel='icon' href='./favicon.ico' type='image/x-icon' />
 
-    <!-- Bootstrap core css -->
     <link href="/js/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
-    <!-- Custom fonts for this template -->
     <link href="/js/fontawesome/css/fontawesome.min.css" rel="stylesheet" type="text/css">
     <link href="https://fonts.googleapis.com/css?family=Lato:300,400,700,300italic,400italic,700italic" rel="stylesheet" type="text/css">
 
-    <!-- Custom styles for this template -->
     <link href="/css/landing-page.css" rel="stylesheet">
   </head>
 
   <body>
-
-    <!-- Header -->
     <?php include "header.php";?>
     <header class="intro-header">
       <div class="container">
@@ -63,7 +57,12 @@
       <div class="container center">
       <div class="row">
         <div class="col-lg-5 mr-auto ml-auto">
-        <img class="img-fluid margin-bottom" src="/images/GSCA-BBY.jpg" alt="Giant Schnauzer Club of America Brood Bitch of the Year award winner">
+        <img class="img-fluid lazy margin-bottom" sizes="(max-width: 467px) 100vw, 467px"
+            data-srcset="
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_200/giant-schnauzer-professional-stack_lzjovj.jpg 200w,
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_324/giant-schnauzer-professional-stack_lzjovj.jpg 324w,
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_467/giant-schnauzer-professional-stack_lzjovj.jpg 467w"
+            data-src="https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_467/giant-schnauzer-professional-stack_lzjovj.jpg" alt="Giant Schnauzer Club of America Brood Bitch of the Year award winner" title="Giant Schnauzer Club of America Brood Bitch of the Year award winner">
         </div>
       </div>
         <div>
@@ -85,7 +84,12 @@
             <p class="lead">BISS GCH CH Skyline's Eliminator took us to the top by winning Best of Breed at the prestigious Westminster Kennel Club in 2011 and also was the #1 Giant Schnauzer male in 2010</p>
           </div>
           <div class="col-lg-5 mr-auto">
-            <img class="img-fluid" src="images/eddiebobwestminster.jpg" alt="BISS GCH CH Skyline's Eliminator #1 Giant Schnauzer male in 2010"
+            <img class="img-fluid lazy" sizes="(max-width: 467px) 100vw, 467px"
+            data-srcset="
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_200/giant-schnauzer-westminister-winner_xvv6cc.jpg 200w,
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_324/giant-schnauzer-westminister-winner_xvv6cc.jpg 324w,
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_467/giant-schnauzer-westminister-winner_xvv6cc.jpg 467w"
+            data-src="https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_467/giant-schnauzer-westminister-winner_xvv6cc.jpg" alt="BISS GCH CH Skyline's Eliminator #1 Giant Schnauzer male in 2010"
             title="BISS GCH CH Skyline's Eliminator #1 Giant Schnauzer male in 2010">
           </div>
         </div>
@@ -104,7 +108,12 @@
             </p>
           </div>
           <div class="col-lg-5 ml-auto order-lg-1">
-            <img class="img-fluid" src="images/32684975_10156345939108895_9158733199956770816_n.jpg" alt="Skyline Giant Schnauzer Puppies Playing" title="Skyline Giant Schnauzer Puppies Playing">
+            <img class="img-fluid lazy" sizes="(max-width: 467px) 100vw, 467px"
+            data-srcset="
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_200/giant-schnauzer-puppies-cropped-field_phghod.jpg 200w,
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_324/giant-schnauzer-puppies-cropped-field_phghod.jpg 324w,
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_467/giant-schnauzer-puppies-cropped-field_phghod.jpg 467w"
+            data-src="https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_467/giant-schnauzer-puppies-cropped-field_phghod.jpg" alt="Skyline Giant Schnauzer Puppies Playing" title="Skyline Giant Schnauzer Puppies Playing">
           </div>
         </div>
 
@@ -120,7 +129,12 @@
             <p class="lead">Raising Giant Schnauzers as well as producing well bred puppies is my passion. I am committed to making sure they are well taken care of their entire lives. This includes being there for the people who become a part of the Skyline family.  My promise is to make myself available for the lifetime of your dog.</p>
           </div>
           <div class="col-lg-5 mr-auto ">
-            <img class="img-fluid" src="images/negrita.jpg" alt="Negrita Skyline Giant Schnauzer" title="Negrita Skyline Giant Schnauzer">
+            <img class="img-fluid lazy" sizes="(max-width: 467px) 100vw, 467px"
+            data-srcset="
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_200/giant-schnauzer-adult-stacked_clycft.jpg 200w,
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_324/giant-schnauzer-adult-stacked_clycft.jpg 324w,
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_467/giant-schnauzer-adult-stacked_clycft.jpg 467w"
+            data-src="https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_467/giant-schnauzer-adult-stacked_clycft.jpg" alt="Negrita Skyline Giant Schnauzer" title="Negrita Skyline Giant Schnauzer">
           </div>
         </div>
 
@@ -134,6 +148,8 @@
     <script src="/js/jquery/jquery.min.js"></script>
     <script src="/js/popper/popper.min.js"></script>
     <script src="/js/bootstrap/js/bootstrap.min.js"></script>
+    <script src="https://polyfill.io/v2/polyfill.min.js?features=IntersectionObserver"></script>
+    <script src="/js/lazyload.js"></script>
 
   </body>
 

@@ -63,7 +63,16 @@
               <source src="videos/litter-announce-3-31-19.mp4" type="video/mp4">
               Your browser does not support the video tag.
             </video> -->
-          <img src="images/giant-schnauzer-expecting-puppies.jpg"/>
+          <img class="img-fluid lazy" sizes="(max-width: 800px) 100vw, 800px"
+            data-srcset="
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_200/giant-schnauzer-expecting-puppies_dx42er.jpg 200w,
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_300/giant-schnauzer-expecting-puppies_dx42er.jpg 300w,
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_400/giant-schnauzer-expecting-puppies_dx42er.jpg 400w,
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_500/giant-schnauzer-expecting-puppies_dx42er.jpg 500w,
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_600/giant-schnauzer-expecting-puppies_dx42er.jpg 600w,
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_700/giant-schnauzer-expecting-puppies_dx42er.jpg 700w"
+            data-src="https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_800/giant-schnauzer-expecting-puppies_dx42er.jpg"
+            alt="Giant Schnauzer 2019 litter announcement" title="Giant Schnauzer 2019 litter announcement">
           <!--<div class="descript margin-bottom">No litters to announce at this time.</div>-->
         </div>
       </div>
@@ -76,6 +85,8 @@
     <script src="/js/jquery/jquery.min.js"></script>
     <script src="/js/popper/popper.min.js"></script>
     <script src="/js/bootstrap/js/bootstrap.min.js"></script>
+    <script src="https://polyfill.io/v2/polyfill.min.js?features=IntersectionObserver"></script>
+    <script src="/js/lazyload.js"></script>
   </body>
 
 </html>

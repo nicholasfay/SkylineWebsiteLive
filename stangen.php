@@ -61,9 +61,6 @@
       <div class="container">
         <div class="row">
           <h1> Breed Predisposition to Disease and Congenital Conditions</h1>
-					<!-- <div class="descript">
-						<img class="img-fluid" src="images/justadog.jpg" alt="">
-					</div> -->
         </div>
         <div class="row">
           <div class ="text-left">
@@ -90,7 +87,13 @@
           </div>
         </div>
         <div class="row justify-content-center margin-top-small">
-          <img src="images/standardside1.gif" class="img-fluid"/>
+        <img class="img-fluid lazy" sizes="(max-width: 400px) 100vw, 400px"
+            data-srcset="
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_200/standardside1_bn4tvf.gif 200w,
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_300/standardside1_bn4tvf.gif 300w,
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_400/standardside1_bn4tvf.gif 400w"
+            data-src="https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_400/standardside1_bn4tvf.gif"
+            alt="Giant Schnauzer silhoutte" title="Giant Schnauzer silhoutte">
         </div>
         <div class="row">
           <h4 class="margin-top-small">Head</h4>
@@ -101,7 +104,13 @@
           </div>
         </div>
         <div class="row justify-content-center margin-top-small">
-          <img src="images/standardhead.gif" class="img-fluid"/>
+        <img class="img-fluid lazy" sizes="(max-width: 400px) 100vw, 400px"
+            data-srcset="
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_200/standardhead_cojqzg.gif 200w,
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_300/standardhead_cojqzg.gif 300w,
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_400/standardhead_cojqzg.gif 400w"
+            data-src="https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_400/standardhead_cojqzg.gif"
+            alt="Giant Schnauzer head" title="Giant Schnauzer head">
         </div>
         <div class="row">
           <h4 class="margin-top-small">Body</h4>
@@ -148,7 +157,13 @@
           </div>
         </div>
         <div class="row justify-content-center margin-top-small">
-          <img src="images/standardbone.gif" class="img-fluid"/>
+        <img class="img-fluid lazy" sizes="(max-width: 400px) 100vw, 400px"
+            data-srcset="
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_200/standardbone_gxzugc.gif 200w,
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_300/standardbone_gxzugc.gif 300w,
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_400/standardbone_gxzugc.gif 400w"
+            data-src="https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_400/standardbone_gxzugc.gif"
+            alt="Giant Schnauzer silhoutte" title="Giant Schnauzer silhoutte">
         </div>
         <div class="row">
           <h4 class="margin-top-small">Gait</h4>
@@ -215,10 +230,11 @@
     <?php include "socialmediabanner.php";?>
     <?php include "footer.php";?>
 
-    <!-- Bootstrap core JavaScript -->
     <script src="/js/jquery/jquery.min.js"></script>
     <script src="/js/popper/popper.min.js"></script>
     <script src="/js/bootstrap/js/bootstrap.min.js"></script>
+    <script src="https://polyfill.io/v2/polyfill.min.js?features=IntersectionObserver"></script>
+    <script src="/js/lazyload.js"></script>
 
   </body>
 
