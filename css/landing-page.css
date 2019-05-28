@@ -29,7 +29,7 @@ h6 {
   padding-bottom: 50px;
   text-align: center;
   color: #f8f8f8;
-  background: url(../images/adultsavailableheader.jpg) no-repeat center center;
+  background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_1400/giant-schnauzer-standing-tall-yard_elohzb.jpg) no-repeat center center;
   background-size: cover;
   background-position: 25% 17%;
 }
@@ -48,7 +48,7 @@ h6 {
   padding-bottom: 50px;
   text-align: center;
   color: #f8f8f8;
-  background: url(../images/poolside.jpg) no-repeat center center;
+  background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_1400/giant-schnauzer-adults-swimming-pool_xibnig.jpg) no-repeat center center;
   background-size: cover;
   background-position: 25% 25%;
 }
@@ -58,7 +58,7 @@ h6 {
   padding-bottom: 50px;
   text-align: center;
   color: #f8f8f8;
-  background: url(../images/puppiesavailheader.jpg) no-repeat center center;
+  background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_1400/giant-schnauzer-puppy-cropped-sale_yrlvv2.jpg) no-repeat center center;
   background-size: cover;
   background-position: 25% 35%;
 }
@@ -68,7 +68,7 @@ h6 {
   padding-bottom: 50px;
   text-align: center;
   color: #f8f8f8;
-  background: url(../images/questionnaireheader.jpg) no-repeat center center;
+  background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_1400/giant-schnauzer-jumping-swim-pool_brvoqq.jpg) no-repeat center center;
   background-size: cover;
 }
 
@@ -77,7 +77,7 @@ h6 {
   padding-bottom: 50px;
   text-align: center;
   color: #f8f8f8;
-  background: url(../images/beachswimdogs.jpg) no-repeat center center;
+  background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_1400/giant-schnauzer-beach-swim_rk3gby.jpg) no-repeat center center;
   background-size: cover;
 }
 
@@ -86,7 +86,7 @@ h6 {
   padding-bottom: 50px;
   text-align: center;
   color: #f8f8f8;
-  background: url(../images/standardgeneticconcernheader.jpg) no-repeat center center;
+  background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_1400/giant-schnauzer-cropped-puppy-field_ohekmg.jpg) no-repeat center center;
   background-size: cover;
   background-position: 25% 25%;
 }
@@ -96,7 +96,7 @@ h6 {
   padding-bottom: 50px;
   text-align: center;
   color: #f8f8f8;
-  background: url(../images/litterannounceheader.jpg) no-repeat center center;
+  background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_1400/giant-schnauzer-puppies-for-sale_qeqtd5.jpg) no-repeat center center;
   background-size: cover;
 }
 
@@ -105,7 +105,7 @@ h6 {
   padding-bottom: 50px;
   text-align: center;
   color: #f8f8f8;
-  background: url(../images/usefullinksheader.jpg) no-repeat center center;
+  background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_1400/giant-schnauzers-yard-playing_crfu6q.jpg) no-repeat center center;
   background-size: cover;
 }
 
@@ -234,6 +234,39 @@ td {
   .intro-header {
     background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_200/giant-schnauzer-westminister-show_uwt7ib.jpg) no-repeat center center;
   }
+
+  .aboutus-header {
+    background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_200/giant-schnauzer-adults-swimming-pool_xibnig.jpg) no-repeat center center;
+  }
+
+  .adults-avail-header {
+    background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_200/giant-schnauzer-standing-tall-yard_elohzb.jpg) no-repeat center center;
+  }
+
+  .puppies-avail-header {
+    background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_200/giant-schnauzer-puppy-cropped-sale_yrlvv2.jpg) no-repeat center center;
+  }
+
+  .question-header {
+    background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_200/giant-schnauzer-jumping-swim-pool_brvoqq.jpg) no-repeat center center;
+  }
+
+  .ownerstories-header {
+    background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_200/giant-schnauzer-beach-swim_rk3gby.jpg) no-repeat center center;
+  }
+
+  .standard-genetic-header {
+    background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_200/giant-schnauzer-cropped-puppy-field_ohekmg.jpg) no-repeat center center;
+  }
+
+  .litter-announce-header {
+    background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_200/giant-schnauzer-puppies-for-sale_qeqtd5.jpg) no-repeat center center;
+  }
+
+  .useful-links-header {
+    background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_200/giant-schnauzers-yard-playing_crfu6q.jpg) no-repeat center center;
+  }
+
 }
 
 @media(max-width:344px) {
@@ -247,6 +280,38 @@ td {
 
   .intro-header {
     background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_344/giant-schnauzer-westminister-show_uwt7ib.jpg) no-repeat center center;
+  }
+
+  .aboutus-header {
+    background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_344/giant-schnauzer-adults-swimming-pool_xibnig.jpg) no-repeat center center;
+  }
+
+  .adults-avail-header {
+    background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_344/giant-schnauzer-standing-tall-yard_elohzb.jpg) no-repeat center center;
+  }
+
+  .puppies-avail-header {
+    background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_344/giant-schnauzer-puppy-cropped-sale_yrlvv2.jpg) no-repeat center center;
+  }
+
+  .question-header {
+    background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_344/giant-schnauzer-jumping-swim-pool_brvoqq.jpg) no-repeat center center;
+  }
+
+  .ownerstories-header {
+    background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_344/giant-schnauzer-beach-swim_rk3gby.jpg) no-repeat center center;
+  }
+
+  .standard-genetic-header {
+    background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_344/giant-schnauzer-cropped-puppy-field_ohekmg.jpg) no-repeat center center;
+  }
+
+  .litter-announce-header {
+    background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_344/giant-schnauzer-puppies-for-sale_qeqtd5.jpg) no-repeat center center;
+  }
+
+  .useful-links-header {
+    background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_344/giant-schnauzers-yard-playing_crfu6q.jpg) no-repeat center center;
   }
 }
 
@@ -262,6 +327,38 @@ td {
   .intro-header {
     background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_453/giant-schnauzer-westminister-show_uwt7ib.jpg) no-repeat center center;
   }
+
+  .aboutus-header {
+    background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_453/giant-schnauzer-adults-swimming-pool_xibnig.jpg) no-repeat center center;
+  }
+
+  .adults-avail-header {
+    background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_453/giant-schnauzer-standing-tall-yard_elohzb.jpg) no-repeat center center;
+  }
+
+  .puppies-avail-header {
+    background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_453/giant-schnauzer-puppy-cropped-sale_yrlvv2.jpg) no-repeat center center;
+  }
+
+  .question-header {
+    background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_453/giant-schnauzer-jumping-swim-pool_brvoqq.jpg) no-repeat center center;
+  }
+
+  .ownerstories-header {
+    background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_453/giant-schnauzer-beach-swim_rk3gby.jpg) no-repeat center center;
+  }
+
+  .standard-genetic-header {
+    background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_453/giant-schnauzer-cropped-puppy-field_ohekmg.jpg) no-repeat center center;
+  }
+
+  .litter-announce-header {
+    background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_453/giant-schnauzer-puppies-for-sale_qeqtd5.jpg) no-repeat center center;
+  }
+
+  .useful-links-header {
+    background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_453/giant-schnauzers-yard-playing_crfu6q.jpg) no-repeat center center;
+  }
 }
 
 @media(max-width:636px) {
@@ -275,6 +372,38 @@ td {
 
   .intro-header {
     background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_636/giant-schnauzer-westminister-show_uwt7ib.jpg) no-repeat center center;
+  }
+
+  .aboutus-header {
+    background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_636/giant-schnauzer-adults-swimming-pool_xibnig.jpg) no-repeat center center;
+  }
+
+  .adults-avail-header {
+    background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_636/giant-schnauzer-standing-tall-yard_elohzb.jpg) no-repeat center center;
+  }
+
+  .puppies-avail-header {
+    background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_636/giant-schnauzer-puppy-cropped-sale_yrlvv2.jpg) no-repeat center center;
+  }
+
+  .question-header {
+    background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_636/giant-schnauzer-jumping-swim-pool_brvoqq.jpg) no-repeat center center;
+  }
+
+  .ownerstories-header {
+    background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_636/giant-schnauzer-beach-swim_rk3gby.jpg) no-repeat center center;
+  }
+
+  .standard-genetic-header {
+    background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_636/giant-schnauzer-cropped-puppy-field_ohekmg.jpg) no-repeat center center;
+  }
+
+  .litter-announce-header {
+    background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_636/giant-schnauzer-puppies-for-sale_qeqtd5.jpg) no-repeat center center;
+  }
+
+  .useful-links-header {
+    background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_636/giant-schnauzers-yard-playing_crfu6q.jpg) no-repeat center center;
   }
 }
 
@@ -290,6 +419,38 @@ td {
   .intro-header {
     background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_846/giant-schnauzer-westminister-show_uwt7ib.jpg) no-repeat center center;
   }
+
+  .aboutus-header {
+    background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_846/giant-schnauzer-adults-swimming-pool_xibnig.jpg) no-repeat center center;
+  }
+
+  .adults-avail-header {
+    background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_846/giant-schnauzer-standing-tall-yard_elohzb.jpg) no-repeat center center;
+  }
+
+  .puppies-avail-header {
+    background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_846/giant-schnauzer-puppy-cropped-sale_yrlvv2.jpg) no-repeat center center;
+  }
+
+  .question-header {
+    background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_846/giant-schnauzer-jumping-swim-pool_brvoqq.jpg) no-repeat center center;
+  }
+
+  .ownerstories-header {
+    background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_846/giant-schnauzer-beach-swim_rk3gby.jpg) no-repeat center center;
+  }
+
+  .standard-genetic-header {
+    background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_846/giant-schnauzer-cropped-puppy-field_ohekmg.jpg) no-repeat center center;
+  }
+
+  .litter-announce-header {
+    background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_846/giant-schnauzer-puppies-for-sale_qeqtd5.jpg) no-repeat center center;
+  }
+
+  .useful-links-header {
+    background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_846/giant-schnauzers-yard-playing_crfu6q.jpg) no-repeat center center;
+  }
 }
 
 @media(max-width:971px) {
@@ -303,6 +464,38 @@ td {
 
   .intro-header {
     background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_971/giant-schnauzer-westminister-show_uwt7ib.jpg) no-repeat center center;
+  }
+
+  .aboutus-header {
+    background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_971/giant-schnauzer-adults-swimming-pool_xibnig.jpg) no-repeat center center;
+  }
+
+  .adults-avail-header {
+    background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_971/giant-schnauzer-standing-tall-yard_elohzb.jpg) no-repeat center center;
+  }
+
+  .puppies-avail-header {
+    background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_971/giant-schnauzer-puppy-cropped-sale_yrlvv2.jpg) no-repeat center center;
+  }
+
+  .question-header {
+    background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_971/giant-schnauzer-jumping-swim-pool_brvoqq.jpg) no-repeat center center;
+  }
+
+  .ownerstories-header {
+    background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_971/giant-schnauzer-beach-swim_rk3gby.jpg) no-repeat center center;
+  }
+
+  .standard-genetic-header {
+    background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_971/giant-schnauzer-cropped-puppy-field_ohekmg.jpg) no-repeat center center;
+  }
+
+  .litter-announce-header {
+    background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_971/giant-schnauzer-puppies-for-sale_qeqtd5.jpg) no-repeat center center;
+  }
+
+  .useful-links-header {
+    background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_971/giant-schnauzers-yard-playing_crfu6q.jpg) no-repeat center center;
   }
 }
 
@@ -318,6 +511,38 @@ td {
   .intro-header {
     background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_1027/giant-schnauzer-westminister-show_uwt7ib.jpg) no-repeat center center;
   }
+
+  .aboutus-header {
+    background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_1027/giant-schnauzer-adults-swimming-pool_xibnig.jpg) no-repeat center center;
+  }
+
+  .adults-avail-header {
+    background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_1027/giant-schnauzer-standing-tall-yard_elohzb.jpg) no-repeat center center;
+  }
+
+  .puppies-avail-header {
+    background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_1027/giant-schnauzer-puppy-cropped-sale_yrlvv2.jpg) no-repeat center center;
+  }
+
+  .question-header {
+    background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_1027/giant-schnauzer-jumping-swim-pool_brvoqq.jpg) no-repeat center center;
+  }
+
+  .ownerstories-header {
+    background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_1027/giant-schnauzer-beach-swim_rk3gby.jpg) no-repeat center center;
+  }
+
+  .standard-genetic-header {
+    background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_1027/giant-schnauzer-cropped-puppy-field_ohekmg.jpg) no-repeat center center;
+  }
+
+  .litter-announce-header {
+    background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_1027/giant-schnauzer-puppies-for-sale_qeqtd5.jpg) no-repeat center center;
+  }
+
+  .useful-links-header {
+    background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_1027/giant-schnauzers-yard-playing_crfu6q.jpg) no-repeat center center;
+  }
 }
 
 @media(max-width:1141px) {
@@ -331,6 +556,38 @@ td {
 
   .intro-header {
     background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_1141/giant-schnauzer-westminister-show_uwt7ib.jpg) no-repeat center center;
+  }
+
+  .aboutus-header {
+    background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_1141/giant-schnauzer-adults-swimming-pool_xibnig.jpg) no-repeat center center;
+  }
+
+  .adults-avail-header {
+    background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_1141/giant-schnauzer-standing-tall-yard_elohzb.jpg) no-repeat center center;
+  }
+
+  .puppies-avail-header {
+    background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_1141/giant-schnauzer-puppy-cropped-sale_yrlvv2.jpg) no-repeat center center;
+  }
+
+  .question-header {
+    background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_1141/giant-schnauzer-jumping-swim-pool_brvoqq.jpg) no-repeat center center;
+  }
+
+  .ownerstories-header {
+    background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_1141/giant-schnauzer-beach-swim_rk3gby.jpg) no-repeat center center;
+  }
+
+  .standard-genetic-header {
+    background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_1141/giant-schnauzer-cropped-puppy-field_ohekmg.jpg) no-repeat center center;
+  }
+
+  .litter-announce-header {
+    background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_1141/giant-schnauzer-puppies-for-sale_qeqtd5.jpg) no-repeat center center;
+  }
+
+  .useful-links-header {
+    background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_1141/giant-schnauzers-yard-playing_crfu6q.jpg) no-repeat center center;
   }
 }
 
@@ -346,6 +603,38 @@ td {
   .intro-header {
     background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_1255/giant-schnauzer-westminister-show_uwt7ib.jpg) no-repeat center center;
   }
+
+  .aboutus-header {
+    background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_1255/giant-schnauzer-adults-swimming-pool_xibnig.jpg) no-repeat center center;
+  }
+
+  .adults-avail-header {
+    background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_1255/giant-schnauzer-standing-tall-yard_elohzb.jpg) no-repeat center center;
+  }
+
+  .puppies-avail-header {
+    background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_1255/giant-schnauzer-puppy-cropped-sale_yrlvv2.jpg) no-repeat center center;
+  }
+
+  .question-header {
+    background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_1255/giant-schnauzer-jumping-swim-pool_brvoqq.jpg) no-repeat center center;
+  }
+
+  .ownerstories-header {
+    background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_1255/giant-schnauzer-beach-swim_rk3gby.jpg) no-repeat center center;
+  }
+
+  .standard-genetic-header {
+    background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_1255/giant-schnauzer-cropped-puppy-field_ohekmg.jpg) no-repeat center center;
+  }
+
+  .litter-announce-header {
+    background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_1255/giant-schnauzer-puppies-for-sale_qeqtd5.jpg) no-repeat center center;
+  }
+
+  .useful-links-header {
+    background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_1255/giant-schnauzers-yard-playing_crfu6q.jpg) no-repeat center center;
+  }
 }
 
 @media(max-width:1400px) {
@@ -359,6 +648,38 @@ td {
 
   .intro-header {
     background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_1400/giant-schnauzer-westminister-show_uwt7ib.jpg) no-repeat center center;
+  }
+
+  .aboutus-header {
+    background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_1400/giant-schnauzer-adults-swimming-pool_xibnig.jpg) no-repeat center center;
+  }
+
+  .adults-avail-header {
+    background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_1400/giant-schnauzer-standing-tall-yard_elohzb.jpg) no-repeat center center;
+  }
+
+  .puppies-avail-header {
+    background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_1400/giant-schnauzer-puppy-cropped-sale_yrlvv2.jpg) no-repeat center center;
+  }
+
+  .question-header {
+    background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_1400/giant-schnauzer-jumping-swim-pool_brvoqq.jpg) no-repeat center center;
+  }
+
+  .ownerstories-header {
+    background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_1400/giant-schnauzer-beach-swim_rk3gby.jpg) no-repeat center center;
+  }
+
+  .standard-genetic-header {
+    background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_1400/giant-schnauzer-cropped-puppy-field_ohekmg.jpg) no-repeat center center;
+  }
+
+  .litter-announce-header {
+    background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_1400/giant-schnauzer-puppies-for-sale_qeqtd5.jpg) no-repeat center center;
+  }
+
+  .useful-links-header {
+    background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_1400/giant-schnauzers-yard-playing_crfu6q.jpg) no-repeat center center;
   }
 }
 
