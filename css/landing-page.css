@@ -109,10 +109,22 @@ h6 {
   background-size: cover;
 }
 
+.highlights-header {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  text-align: center;
+  color: #f8f8f8;
+  background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/v1560128435/giant-schnauzer-show-dog-stance_mapjy1.jpg) no-repeat center center;
+  background-size: cover;
+}
+
+.margin-list {
+  margin: 3rem 0;
+}
+
 .descript {
   margin: 10px;
   text-align: center;
-  vertical-align: middle;
   margin-left: auto;
   margin-right: auto;
   display: block;
@@ -267,6 +279,10 @@ td {
     background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_200/giant-schnauzers-yard-playing_crfu6q.jpg) no-repeat center center;
   }
 
+  .highlights-header {
+    background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_200/giant-schnauzer-show-dog-stance_mapjy1.jpg) no-repeat center center;
+  }
+
 }
 
 @media(max-width:344px) {
@@ -312,6 +328,10 @@ td {
 
   .useful-links-header {
     background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_344/giant-schnauzers-yard-playing_crfu6q.jpg) no-repeat center center;
+  }
+
+  .highlights-header {
+    background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_344/giant-schnauzer-show-dog-stance_mapjy1.jpg) no-repeat center center;
   }
 }
 
@@ -359,6 +379,10 @@ td {
   .useful-links-header {
     background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_453/giant-schnauzers-yard-playing_crfu6q.jpg) no-repeat center center;
   }
+
+  .highlights-header {
+    background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_453/giant-schnauzer-show-dog-stance_mapjy1.jpg) no-repeat center center;
+  }
 }
 
 @media(max-width:636px) {
@@ -404,6 +428,10 @@ td {
 
   .useful-links-header {
     background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_636/giant-schnauzers-yard-playing_crfu6q.jpg) no-repeat center center;
+  }
+
+  .highlights-header {
+    background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_636/giant-schnauzer-show-dog-stance_mapjy1.jpg) no-repeat center center;
   }
 }
 
@@ -451,6 +479,10 @@ td {
   .useful-links-header {
     background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_846/giant-schnauzers-yard-playing_crfu6q.jpg) no-repeat center center;
   }
+
+  .highlights-header {
+    background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_846/giant-schnauzer-show-dog-stance_mapjy1.jpg) no-repeat center center;
+  }
 }
 
 @media(max-width:971px) {
@@ -496,6 +528,10 @@ td {
 
   .useful-links-header {
     background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_971/giant-schnauzers-yard-playing_crfu6q.jpg) no-repeat center center;
+  }
+
+  .highlights-header {
+    background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_971/giant-schnauzer-show-dog-stance_mapjy1.jpg) no-repeat center center;
   }
 }
 
@@ -543,6 +579,10 @@ td {
   .useful-links-header {
     background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_1027/giant-schnauzers-yard-playing_crfu6q.jpg) no-repeat center center;
   }
+
+  .highlights-header {
+    background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_1027/giant-schnauzer-show-dog-stance_mapjy1.jpg) no-repeat center center;
+  }
 }
 
 @media(max-width:1141px) {
@@ -588,6 +628,10 @@ td {
 
   .useful-links-header {
     background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_1141/giant-schnauzers-yard-playing_crfu6q.jpg) no-repeat center center;
+  }
+
+  .highlights-header {
+    background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_1141/giant-schnauzer-show-dog-stance_mapjy1.jpg) no-repeat center center;
   }
 }
 
@@ -635,6 +679,10 @@ td {
   .useful-links-header {
     background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_1255/giant-schnauzers-yard-playing_crfu6q.jpg) no-repeat center center;
   }
+
+  .highlights-header {
+    background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_1255/giant-schnauzer-show-dog-stance_mapjy1.jpg) no-repeat center center;
+  }
 }
 
 @media(max-width:1400px) {
@@ -680,6 +728,10 @@ td {
 
   .useful-links-header {
     background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_1400/giant-schnauzers-yard-playing_crfu6q.jpg) no-repeat center center;
+  }
+
+  .highlights-header {
+    background: url(https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_1400/giant-schnauzer-show-dog-stance_mapjy1.jpg) no-repeat center center;
   }
 }
 
@@ -760,6 +812,11 @@ p.copyright {
 
 #top-spacer {
   padding-top: 20px;
+}
+
+.medium1 {
+  font-size: 14px;
+  font: 6 3vh/1 'Great Vibes', Helvetica, sans-serif;
 }
 
 .large2 {
