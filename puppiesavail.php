@@ -58,9 +58,10 @@
     <!-- Page Content -->
     <section class="content-section-a bg-color">
       <div class="container">
-        <div class="row justify-content-center descript">
+        <!-- <div class="row justify-content-center descript">
            No puppies available at this time.
-        </div>
+        </div> -->
+        <div class="descript">Puppies are currently available! Serious inquiries please fill out our <a href="questionnaire.php">questionnaire</a>.</div>
       </div>
     </section>
         <!-- Page Content -->
@@ -75,9 +76,6 @@
         </div>
       </div>
     </section> -->
-
-    <!-- <div class="descript">Serious inquiries please fill out our <a href="questionnaire.php">questionnaire</a>.</div> -->
-
     <?php include "socialmediabanner.php";?>
     <?php include "footer.php";?>
 
