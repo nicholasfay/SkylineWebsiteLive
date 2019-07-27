@@ -218,7 +218,10 @@
             As for Graham and me, Denali is the love of our lives. She had a hard act to follow and it took her a while to win me over, but I'm smitten for life. She's smart and sweet and hasn't met a person or a dog (as long as the dog doesn't act aggressively towards her first) she doesn't like. She can be a bit stubborn and strong-willed, but what Giant isn't?
 
             Denali's the best and you are the best. Thank you for trusting her to us and for always being available for advice and for an invitation to come and visit all of your 4 legged family members.</div>
-            <div class="descript justify-content-center">- Betsy</div>
+            
+          </div>
+          <div class="row justify-content-center">
+            <div class="descript">- Betsy</div>
           </div>
         </div>
 
