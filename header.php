@@ -28,21 +28,18 @@
           <li class="nav-item">
             <div class="d-flex flex-column align-items-center">
               <a class="nav-link" href="ownerstories.php">Owner Stories</a>
-              <div>UPDATED</div>
             </div>
           </li>
           <li class="nav-item">
             <div class="d-flex flex-column align-items-center">
               <a class="nav-link" href="highlights.php">Highlights</a>
-              <div>UPDATED</div>
             </div>
           </li>
           <li class="dropdown">
             <a class ="nav-link" href="#" class="dropdown-toggle" data-toggle="dropdown"  role="button" aria-haspopup="true" aria-expanded="false">Dog Availability  &#9660</a>
             <ul class="dropdown-menu">
-              <div class="d-flex flex-column align-items-center">
+              <div class="d-flex flex-column">
                 <li class="nav-item"><a class ="nav-link" href="puppiesavail.php#">Puppies Available</a></li>
-                <div>UPDATED</div>
               </div>
               <li class="nav-item"><a class ="nav-link" href="adultsavail.php#">Adults Available</a></li>
               <li class="nav-item">

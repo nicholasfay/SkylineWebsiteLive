@@ -17,6 +17,8 @@
     <!-- Custom fonts for this template -->
     <link href="/js/fontawesome/css/fontawesome.min.css" rel="stylesheet" type="text/css">
     <link href="https://fonts.googleapis.com/css?family=Lato:300,400,700,300italic,400italic,700italic" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Dancing+Script" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Josefin+Sans" rel="stylesheet"> 
 
     <!-- Custom styles for this template -->
     <link href="/css/landing-page.css" rel="stylesheet">
@@ -59,9 +61,9 @@
     <section class="content-section-a bg-color">
 
       <div class="container">
-        <div class="row">
+        <div class="row justify-content-center">
         	<div class ="descript">
-          No Adults available at this time.
+            No Adults available at this time.
         	</div>
         </div>
 

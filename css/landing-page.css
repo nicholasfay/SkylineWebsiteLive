@@ -118,16 +118,16 @@ h6 {
   background-size: cover;
 }
 
-.margin-list {
-  margin: 3rem 0;
-}
-
 .descript {
   margin: 10px;
-  text-align: center;
-  margin-left: auto;
-  margin-right: auto;
   display: block;
+  font-family: 'Josefin Sans', Helvetica, Arial, sans-serif;
+  font-size: 18px;
+  line-height: 25px;
+}
+
+.descript2{
+  line-height: 32px;
 }
 
 .center {
@@ -802,6 +802,10 @@ p.copyright {
   margin-bottom: 50px;
 }
 
+.margin-bottom-small {
+  margin-bottom: 25px;
+}
+
 .margin-top {
   margin-top: 50px;
 }
@@ -816,12 +820,28 @@ p.copyright {
 
 .medium1 {
   font-size: 14px;
-  font: 6 3vh/1 'Great Vibes', Helvetica, sans-serif;
+  font: 6 3vh/1 'Dancing Script', Georgia, Times, serif;
 }
 
 .large2 {
   font-size: 20px;
-  font: 10 5vh/1 'Great Vibes', Helvetica, sans-serif;
+  font: 10 5vh/1 'Dancing Script', Georgia, Times, serif;
+}
+
+.no-padding{
+  padding: 0;
+}
+
+.some-padding-left{
+  padding-left: 20px;
+}
+
+.some-padding-left-child{
+  padding-left: 20px;
+}
+
+.some-padding-left-child > li {
+  margin-bottom: 5px;
 }
 
 .header-black {

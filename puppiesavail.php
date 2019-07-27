@@ -20,6 +20,8 @@
 
     <!-- Custom styles for this template -->
     <link href="/css/landing-page.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Dancing+Script" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Josefin+Sans" rel="stylesheet">
   </head>
 
   <body>
@@ -61,7 +63,10 @@
         <!-- <div class="row justify-content-center descript">
            No puppies available at this time.
         </div> -->
-        <div class="descript">Puppies are currently available! Serious inquiries please fill out our <a href="questionnaire.php">questionnaire</a>.</div>
+        <div class="descript">Puppies are currently available! Go to our <a href="https://www.instagram.com/skyline_giant_schnauzers/" class="btn btn-secondary btn-lg">
+                <i class="fa fa-instagram fa-fw"></i>
+                <span class="network-name">Instagram</span>
+              </a> for live updates! Serious inquiries please fill out our <a href="questionnaire.php">questionnaire</a>.</div>
       </div>
     </section>
         <!-- Page Content -->
