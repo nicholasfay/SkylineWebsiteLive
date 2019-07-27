@@ -66,8 +66,8 @@
             data-src="https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_467/giant-schnauzer-professional-stack_lzjovj.jpg" alt="Giant Schnauzer Club of America Brood Bitch of the Year award winner" title="Giant Schnauzer Club of America Brood Bitch of the Year award winner">
         </div>
       </div>
-        <div>
-        <p class="lead home-page-announcement">We are proud to announce that our Snooki, "Ch. Skyline's It's All About Me", is
+        <div class="col-lg-8 mr-auto ml-auto">
+        <p class="descript">We are proud to announce that our Snooki, "Ch. Skyline's It's All About Me", is
           receiving the Giant Schnauzer Club of America Brood Bitch of the Year 2017 award! We are
           over the moon excited about this. Thank you to all of the people who worked hard
           at making her kids the Champions they all deserved!</p>
