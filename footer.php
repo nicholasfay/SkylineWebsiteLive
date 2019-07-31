@@ -6,7 +6,7 @@
       </li>
       <li class="footer-menu-divider list-inline-item">&sdot;</li>
       <li class="list-inline-item">
-        <a href="productmarketing.php">Product Links</a>
+        <a href="productmarketing.php">Trust Products</a>
       </li>
       <li class="footer-menu-divider list-inline-item">&sdot;</li>
       <li class="list-inline-item">
