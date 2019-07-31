@@ -1,6 +1,6 @@
 <!-- Navigation -->
 <nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
-  <div class="container">
+  <div class="container-fluid w-75">
     <a class="navbar-brand" href="index.php#">Skyline Giant Schnauzers</a>
     <a class="header-black" href="https://www.facebook.com/skylinegiantschnauzers/">
                 <i class="fa fa-facebook fa-fw"></i>
@@ -18,6 +18,9 @@
       <ul class="navbar-nav ml-auto">
           <li class="nav-item">
             <a class="nav-link" href="aboutus.php">About Us</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link font-weight-bold" href="productmarketing.php">Trusted Products</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="ourdogs.php">Our Dogs</a>
