@@ -19,8 +19,8 @@
           <li class="nav-item">
             <a class="nav-link" href="aboutus.php">About Us</a>
           </li>
-          <li class="nav-item">
-            <a class="nav-link font-weight-bold" href="productmarketing.php">Trusted Products</a>
+          <li class="nav-item special-link">
+            <a id="special-link"class="special-link nav-link font-weight-bold" href="productmarketing.php">Trusted Products</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="ourdogs.php">Our Dogs</a>
