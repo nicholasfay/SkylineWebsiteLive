@@ -69,7 +69,8 @@
             <div class="card-body">
                 <h5 class="card-title">Puppy training pad</h5>
                 <hr class="text-secondary w-100"/>
-                <p class="card-text">I love these puppy pads for when they are just growing up. They are great for litter box training any size puppy! You can purchase one <a href="https://www.amazon.com/gp/product/B07HHMVRC7/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07HHMVRC7&linkCode=as2&tag=skyline19-20&linkId=c7adad0b0bf06f082ffe96183c88306a"> here</a></p>
+                <p class="card-text">I love these puppy pads for when they are just growing up. They are great for litter box training any size puppy!</p>
+                <a role="button" href="https://www.amazon.com/gp/product/B07HHMVRC7/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07HHMVRC7&linkCode=as2&tag=skyline19-20&linkId=c7adad0b0bf06f082ffe96183c88306a" class="btn btn-primary mb-1">Buy here</a>
                 <p class="card-text"><small class="text-muted">Last updated 07/30/2019</small></p>
             </div>
         </div>
@@ -81,7 +82,8 @@
             <div class="card-body">
                 <h5 class="card-title">K9 Purple Collar Chew Toy</h5>
                 <hr class="text-secondary w-100"/>
-                <p class="card-text">These toys are great for tugging and playing fetch with them in the pool. It keeps them busy for hours upon hours. These toys have stood up to the powerful jaws of my Giant Schnauzers as well! You can purchase one <a href="https://www.amazon.com/gp/product/B075XMN1GH/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B075XMN1GH&linkCode=as2&tag=skyline19-20&linkId=b7511dd36cf9250539fa6dead77542bb"> here</a></p>
+                <p class="card-text">These toys are great for tugging and playing fetch with them in the pool. It keeps them busy for hours upon hours. These toys have stood up to the powerful jaws of my Giant Schnauzers as well!</p>
+                <a role="button" href="https://www.amazon.com/gp/product/B075XMN1GH/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B075XMN1GH&linkCode=as2&tag=skyline19-20&linkId=b7511dd36cf9250539fa6dead77542bb" class="btn btn-primary mb-1">Buy here</a>
                 <p class="card-text"><small class="text-muted">Last updated 07/30/2019</small></p>
             </div>
         </div>
@@ -93,7 +95,8 @@
             <div class="card-body">
                 <h5 class="card-title">Puppy tunnel</h5>
                 <hr class="text-secondary w-100"/>
-                <p class="card-text">This tunnel is super sturdy to hold up to puppies claws and puppy teeth. It builds their confidence and trains them to be future agility stars! You can purchase one <a href="https://www.amazon.com/gp/product/B01IUQEMJK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01IUQEMJK&linkCode=as2&tag=skyline19-20&linkId=efca3c4575c4997f293bfe992ab43eb0"> here</a></p>
+                <p class="card-text">This tunnel is super sturdy to hold up to puppies claws and puppy teeth. It builds their confidence and trains them to be future agility stars!</p>
+                <a role="button" href="https://www.amazon.com/gp/product/B01IUQEMJK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01IUQEMJK&linkCode=as2&tag=skyline19-20&linkId=efca3c4575c4997f293bfe992ab43eb0" class="btn btn-primary mb-1">Buy here</a>
                 <p class="card-text"><small class="text-muted">Last updated 07/30/2019</small></p>
             </div>
         </div>
