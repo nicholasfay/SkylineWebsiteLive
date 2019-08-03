@@ -59,11 +59,11 @@
 
     <!-- Page Content -->
     <section class="content-section-a bg-color">
-    <h1 class="w-75 ml-auto mr-auto mb-5">Look at some of these great and trusted products below</h1>
+    <h1 class="w-75 ml-auto mr-auto">Check out these great products below</h1>
     <hr class="text-secondary w-75"/>
-    <div class="product-container ml-auto mr-auto">
+    <div class="product-container mt-5 ml-auto mr-auto">
         <div class="card product-card">
-            <img sizes="(max-width: 200px) 100vw, 200px" data-srcset="https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_467/puppy-training-pad-sale-durable_yzvrs6.jpg 467w"
+            <img data-srcset="https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_467/puppy-training-pad-sale-durable_yzvrs6.jpg 467w"
                         data-src="https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_467/puppy-training-pad-sale-durable_yzvrs6.jpg"
                         class="card-img-top lazy" alt="Puppy potty training pad">
             <div class="card-body">
@@ -75,7 +75,7 @@
             </div>
         </div>
         <div class="card product-card">
-            <img sizes="(max-width: 200px) 100vw, 200px" data-srcset="
+            <img data-srcset="
                         https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_467/dog-toy-pool-durable-tough_sevvao.jpg 467w"
                         data-src="https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_467/dog-toy-pool-durable-tough_sevvao.jpg"
                         class="card-img-top lazy" alt="Safe and durable dog toy">
@@ -85,6 +85,30 @@
                 <p class="card-text">These toys are great for tugging and playing fetch with them in the pool. It keeps them busy for hours upon hours. These toys have stood up to the powerful jaws of my Giant Schnauzers as well!</p>
                 <a role="button" href="https://www.amazon.com/gp/product/B075XMN1GH/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B075XMN1GH&linkCode=as2&tag=skyline19-20&linkId=b7511dd36cf9250539fa6dead77542bb" class="btn btn-primary mb-1">Buy here</a>
                 <p class="card-text"><small class="text-muted">Last updated 07/30/2019</small></p>
+            </div>
+        </div>
+        <div class="card product-card">
+            <img data-srcset="https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_467/dog-collar-post-injury-soft_bi8zsk.jpg 467w"
+                        data-src="https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_467/dog-collar-post-injury-soft_bi8zsk.jpg 467w"
+                        class="card-img-top lazy" alt="Post surgery plastic cone replacement for dogs">
+            <div class="card-body">
+                <h5 class="card-title">KONG Cloud E-Collar</h5>
+                <hr class="text-secondary w-100"/>
+                <p class="card-text">This is an amazing replacement for those pesky plastic cones that your dog has to wear to prevent itching and scratching post surgery. It is soft and durable and much more comfortable for the dog</p>
+                <a role="button" href="https://www.amazon.com/gp/product/B0045Y1JGQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0045Y1JGQ&linkCode=as2&tag=skyline19-20&linkId=de4074903deb7400e7ae0e62c7cb27e5" class="btn btn-primary mb-1">Buy here</a>
+                <p class="card-text"><small class="text-muted">Last updated 08/02/2019</small></p>
+            </div>
+        </div>
+        <div class="card product-card">
+            <img data-srcset="https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_467/dog-toy-durable-fun-sell_d5luoz.jpg 467w"
+                        data-src="https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_467/puppy-training-pad-sale-durable_yzvrs6.jpg"
+                        class="card-img-top lazy" alt="Durable ball for all size dogs with a bad chewing habit">
+            <div class="card-body">
+                <h5 class="card-title">Planet Dog Orbee-Tuff Squeak Ball</h5>
+                <hr class="text-secondary w-100"/>
+                <p class="card-text">This dog ball is perfect for those dogs that just can't stop chewing on everything. They are super durable and really stand up to the environment. They are basically indestructible and so much fun for the dogs.</p>
+                <a role="button" href="https://www.amazon.com/gp/product/B01ITF1ONY/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01ITF1ONY&linkCode=as2&tag=skyline19-20&linkId=d3f5e2bfdaa34be3b3bcc0f9a353de62" class="btn btn-primary mb-1">Buy here</a>
+                <p class="card-text"><small class="text-muted">Last updated 08/02/2019</small></p>
             </div>
         </div>
         <div class="card product-card">
