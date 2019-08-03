@@ -25,8 +25,7 @@
         <div class="intro-message">
           <h1>Skyline Giant Schnauzers</h1>
           <h2>Home of the #1 Male Giant Schnauzer 2010</h2>
-          <h3>Where our Giants are like the city Skylines.
-    Structurally Sound, Stand out above the rest and Breathtaking to look at.</h3>
+          <h3>Where our Giants are like the city Skylines. Structurally Sound, Stand out above the rest and Breathtaking to look at.</h3>
           <hr class="intro-divider">
           <ul class="list-inline intro-social-buttons">
             <li class="list-inline-item">
@@ -54,7 +53,9 @@
 
     <!-- Page Content -->
     <section class="content-section-a bg-color">
-
+      <div class="container center mb-5">
+        <a role="button" href="https://bit.ly/giantschnauzer" class="btn btn-info btn-lg mb-1">Check out our new Trusted Products page</a>
+      </div>
       <div class="container center">
       <div class="row">
         <div class="col-lg-5 mr-auto ml-auto">
@@ -66,7 +67,7 @@
             data-src="https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_467/giant-schnauzer-professional-stack_lzjovj.jpg" alt="Giant Schnauzer Club of America Brood Bitch of the Year award winner" title="Giant Schnauzer Club of America Brood Bitch of the Year award winner">
         </div>
       </div>
-        <div class="col-lg-8 mr-auto ml-auto">
+        <div class="col-lg-8 mb-4 mr-auto ml-auto">
         <p class="descript">We are proud to announce that our Snooki, "Ch. Skyline's It's All About Me", is
           receiving the Giant Schnauzer Club of America Brood Bitch of the Year 2017 award! We are
           over the moon excited about this. Thank you to all of the people who worked hard
@@ -75,7 +76,6 @@
       </div>
     </section>
     <section class="content-section-a bg-color">
-
       <div class="container margin-bottom">
         <div class="row">
           <div class="col-lg-5 ml-auto">

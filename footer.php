@@ -49,6 +49,6 @@
         <a href="stangen.php#">Standard and Genetic Concerns</a>
       </li>
     </ul>
-    <p class="copyright text-muted small">Copyright &copy; Skyline Giant Schnauzers 2017. All Rights Reserved</p>
+    <p class="copyright text-muted small">Copyright &copy; Skyline Giant Schnauzers 2017. All Rights Reserved. We are not responsible for any products that are purchased through our site.</p>
   </div>
 </footer>
