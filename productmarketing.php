@@ -115,7 +115,7 @@
             <img sizes="(max-width: 200px) 100vw, 200px" data-srcset="
                         https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_467/puppy-tunnel-sale-purchase_hfvy2y.jpg 467w"
                         data-src="https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_467/giant-schnauzer-stacked-show-quest_jp1ivu.jpg"
-                        class="card-img-top lazy" alt="...">
+                        class="card-img-top lazy" alt="Fun puppy tunnel for agility training">
             <div class="card-body">
                 <h5 class="card-title">Puppy tunnel</h5>
                 <hr class="text-secondary w-100"/>
