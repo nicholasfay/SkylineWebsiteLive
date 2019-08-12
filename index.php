@@ -30,7 +30,7 @@
                         is steady and consistent, and they develop beautiful shiny coats as well. Stools are well formed
                         too!</p>
                     <a role="button"
-                        href="https://www.amazon.com/gp/product/B07HHMVRC7/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07HHMVRC7&linkCode=as2&tag=skyline19-20&linkId=c7adad0b0bf06f082ffe96183c88306a"
+                        href="https://www.amazon.com/gp/product/B003R0LLA8/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=skyline19-20&creative=9325&linkCode=as2&creativeASIN=B003R0LLA8&linkId=850309d823b68db1adb7cdd5ef0c02ea"
                         class="btn btn-primary mb-1">Buy here</a>
                     <p class="card-text"><small class="text-muted">Last updated 08/11/2019</small></p>
                 </div>
@@ -47,7 +47,7 @@
                     <p class="card-text">These cordless clippers are great for grooming puppies. They are quiet, have a
                         5 in 1 clipper blade and provide the perfect cut each time. </p>
                     <a role="button"
-                        href="https://www.amazon.com/gp/product/B003R0LLA8/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=skyline19-20&creative=9325&linkCode=as2&creativeASIN=B003R0LLA8&linkId=850309d823b68db1adb7cdd5ef0c02ea"
+                        href="https://www.amazon.com/gp/product/B00EVBXI4Y/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=skyline19-20&creative=9325&linkCode=as2&creativeASIN=B00EVBXI4Y&linkId=9e749b2e43cc4357153a719c3b01034d"
                         class="btn btn-primary mb-1">Buy here</a>
                     <p class="card-text"><small class="text-muted">Last updated 08/11/2019</small></p>
                 </div>
