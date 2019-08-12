@@ -215,6 +215,11 @@ td {
   margin-top: .5rem;
 }
 
+.announcement{
+  display:flex;
+  flex-direction: row;
+}
+
 .product-container{
   display:flex;
   justify-content: space-between;
