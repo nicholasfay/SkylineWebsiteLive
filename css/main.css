@@ -232,8 +232,23 @@ td {
   flex-wrap:wrap;
 }
 
+.amazonlink{
+  font-size: 1.25rem;
+}
+
 .wrap-button{
   white-space: normal;
+  margin-left: 1rem;
+}
+
+.native-ads{
+  margin-top: 5rem;
+  margin-bottom: 5rem;
+}
+
+.native-ads > div{
+  margin-left: auto;
+  margin-right: auto;
 }
 
 @media screen and (max-width: 850px) {

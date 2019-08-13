@@ -12,10 +12,18 @@
 
     <!-- Page Content -->
     <section class="content-section-a bg-color">
+        <div class="container center mb-5 amazonlink">
+            <span class="amazontext">Check out our new product recommendation page on Amazon</span>
+            <a role="button" href="https://bit.ly/skylinestore" class="wrap-button btn btn-info btn-lg">Click Here!</a>
+        </div>
+        <hr class="text-secondary w-75" />
+        <h1 class="center w-75 mt-5 ml-auto mr-auto">Or some of these great products below</h1>
+        <hr class="text-secondary w-25 center" />
         <div class="native-ads" id="amzn-assoc-ad-fd273be0-cd17-4543-b9cf-c8c304c8367e"></div>
+        <hr class="text-secondary w-75" />
     </section>
     <section class="content-section-a bg-color">
-        <div class="container center">
+        <div class="container center mb-5">
             <h1 class="center w-75 ml-auto mr-auto mb-5">We are proud to announce!</h1>
             <div class="row align-items-center">
                 <hr class="text-secondary w-25" />
@@ -39,6 +47,7 @@
                     at making her kids the Champions they all deserved!</p>
             </div>
         </div>
+        <hr class="text-secondary w-75" />
     </section>
     <section class="content-section-a bg-color">
         <div class="container margin-bottom">
@@ -119,11 +128,7 @@
         <div class="product-container mt-5 ml-auto mr-auto">
             <h1 class="center w-75 ml-auto mr-auto">Skyline's Featured Products Of The Month</h1>
             <hr class="mb-5 text-secondary w-75" />
-            <div class="container center mb-5">
-                <a role="button" href="https://bit.ly/skylinestore" class="wrap-button btn btn-info btn-lg">Our New
-                    Product
-                    Recommendation page on Amazon - Click Here!</a>
-            </div>
+
             <div class="card product-card">
                 <img data-srcset="https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_300,h_300/puppy-dog-food-purina-giant-puppy_d9xrhh.jpg"
                     data-src="https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_300,h_300/puppy-dog-food-purina-giant-puppy_d9xrhh.jpg"
