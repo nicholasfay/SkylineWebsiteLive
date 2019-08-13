@@ -16,8 +16,66 @@
             <span class="amazontext">Check out our new product recommendation page on Amazon</span>
             <a role="button" href="https://bit.ly/skylinestore" class="wrap-button btn btn-info btn-lg">Click Here!</a>
         </div>
-        <hr class="text-secondary w-75" />
-        <h1 class="center w-75 mt-5 ml-auto mr-auto">Or some of these great products below</h1>
+        <div class="product-container mt-5 ml-auto mr-auto">
+            <h1 class="center w-75 ml-auto mr-auto">Skyline's Featured Products Of The Month</h1>
+            <hr class="mb-5 text-secondary w-75" />
+
+            <div class="card product-card">
+                <img data-srcset="https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_300,h_300/puppy-dog-food-purina-giant-puppy_d9xrhh.jpg"
+                    data-src="https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_300,h_300/puppy-dog-food-purina-giant-puppy_d9xrhh.jpg"
+                    class="card-img-top lazy" alt="Purina Pro Plan Dry Puppy Food">
+                <div class="card-body">
+                    <h5 class="card-title">Purina Pro Plan Dry Puppy Food</h5>
+                    <hr class="text-secondary w-100" />
+                    <p class="card-text">I love raising my puppies for the first year on this food because their growth
+                        is steady and consistent, and they develop beautiful shiny coats as well. Stools are well formed
+                        too!</p>
+                    <a role="button"
+                        href="https://www.amazon.com/gp/product/B003R0LLA8/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=skyline19-20&creative=9325&linkCode=as2&creativeASIN=B003R0LLA8&linkId=850309d823b68db1adb7cdd5ef0c02ea"
+                        class="btn btn-primary mb-1">Buy here</a>
+                    <p class="card-text"><small class="text-muted">Last updated 08/11/2019</small></p>
+                </div>
+            </div>
+            <div class="card product-card">
+                <img data-srcset="https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_600,h_700/dog-electric-clippers-show-groom-coats_lapmyv.jpg"
+                    data-src="https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_600,h_700/puppy-dog-food-purina-giant-puppy_d9xrhh.jpg"
+                    class="card-img-top lazy" alt="Wahl Professional Animal Bravura Pet, Dog, Cat, and Horse Corded / Cordless
+                          Clipper Kit">
+                <div class="card-body">
+                    <h5 class="card-title">Wahl Professional Animal Bravura Pet, Dog, Cat, and Horse Corded / Cordless
+                        Clipper Kit</h5>
+                    <hr class="text-secondary w-100" />
+                    <p class="card-text">These cordless clippers are great for grooming puppies. They are quiet, have a
+                        5 in 1 clipper blade and provide the perfect cut each time. </p>
+                    <a role="button"
+                        href="https://www.amazon.com/gp/product/B00EVBXI4Y/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=skyline19-20&creative=9325&linkCode=as2&creativeASIN=B00EVBXI4Y&linkId=9e749b2e43cc4357153a719c3b01034d"
+                        class="btn btn-primary mb-1">Buy here</a>
+                    <p class="card-text"><small class="text-muted">Last updated 08/11/2019</small></p>
+                </div>
+            </div>
+            <div class="card product-card">
+                <img data-srcset="https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_600,h_700/wound-repair-dog-schnauzer-product-placement_jagtzh.jpg"
+                    data-src="https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_600,h_700/wound-repair-dog-schnauzer-product-placement_jagtzh.jpg"
+                    class="card-img-top lazy" alt="Purina Pro Plan Dry Puppy Food">
+                <div class="card-body">
+                    <h5 class="card-title">Colloidal Silver Spray Solution by Silver Holistics</h5>
+                    <hr class="text-secondary w-100" />
+                    <p class="card-text">This is great for animal wounds, to boost the immune system, and also for after
+                        care
+                        of puppy ear crops! You can spray it on the ears while they are healing. It also helps produce
+                        the
+                        cartilage to make the ears stand. You can put it directly on the ear and also spray it in their
+                        water.
+                    </p>
+                    <a role="button"
+                        href="https://www.amazon.com/gp/product/B07T9NYT2M/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=skyline19-20&creative=9325&linkCode=as2&creativeASIN=B07T9NYT2M&linkId=0b077a003c45b2a6e700b19b9c9d8e26"
+                        class="btn btn-primary mb-1">Buy here</a>
+                    <p class="card-text"><small class="text-muted">Last updated 08/11/2019</small></p>
+                </div>
+            </div>
+        </div>
+        <hr class="text-secondary w-75 mt-5" />
+        <h1 class="center w-75 mt-5 ml-auto mr-auto">You can also check out some of these great products below</h1>
         <div class="native-ads" id="amzn-assoc-ad-fd273be0-cd17-4543-b9cf-c8c304c8367e"></div>
         <hr class="text-secondary w-75" />
     </section>
@@ -124,64 +182,7 @@
         </div>
     </section>
     <section class="content-section-a bg-color">
-        <div class="product-container mt-5 ml-auto mr-auto">
-            <h1 class="center w-75 ml-auto mr-auto">Skyline's Featured Products Of The Month</h1>
-            <hr class="mb-5 text-secondary w-75" />
-
-            <div class="card product-card">
-                <img data-srcset="https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_300,h_300/puppy-dog-food-purina-giant-puppy_d9xrhh.jpg"
-                    data-src="https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_300,h_300/puppy-dog-food-purina-giant-puppy_d9xrhh.jpg"
-                    class="card-img-top lazy" alt="Purina Pro Plan Dry Puppy Food">
-                <div class="card-body">
-                    <h5 class="card-title">Purina Pro Plan Dry Puppy Food</h5>
-                    <hr class="text-secondary w-100" />
-                    <p class="card-text">I love raising my puppies for the first year on this food because their growth
-                        is steady and consistent, and they develop beautiful shiny coats as well. Stools are well formed
-                        too!</p>
-                    <a role="button"
-                        href="https://www.amazon.com/gp/product/B003R0LLA8/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=skyline19-20&creative=9325&linkCode=as2&creativeASIN=B003R0LLA8&linkId=850309d823b68db1adb7cdd5ef0c02ea"
-                        class="btn btn-primary mb-1">Buy here</a>
-                    <p class="card-text"><small class="text-muted">Last updated 08/11/2019</small></p>
-                </div>
-            </div>
-            <div class="card product-card">
-                <img data-srcset="https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_600,h_700/dog-electric-clippers-show-groom-coats_lapmyv.jpg"
-                    data-src="https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_600,h_700/puppy-dog-food-purina-giant-puppy_d9xrhh.jpg"
-                    class="card-img-top lazy" alt="Wahl Professional Animal Bravura Pet, Dog, Cat, and Horse Corded / Cordless
-                          Clipper Kit">
-                <div class="card-body">
-                    <h5 class="card-title">Wahl Professional Animal Bravura Pet, Dog, Cat, and Horse Corded / Cordless
-                        Clipper Kit</h5>
-                    <hr class="text-secondary w-100" />
-                    <p class="card-text">These cordless clippers are great for grooming puppies. They are quiet, have a
-                        5 in 1 clipper blade and provide the perfect cut each time. </p>
-                    <a role="button"
-                        href="https://www.amazon.com/gp/product/B00EVBXI4Y/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=skyline19-20&creative=9325&linkCode=as2&creativeASIN=B00EVBXI4Y&linkId=9e749b2e43cc4357153a719c3b01034d"
-                        class="btn btn-primary mb-1">Buy here</a>
-                    <p class="card-text"><small class="text-muted">Last updated 08/11/2019</small></p>
-                </div>
-            </div>
-            <div class="card product-card">
-                <img data-srcset="https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_600,h_700/wound-repair-dog-schnauzer-product-placement_jagtzh.jpg"
-                    data-src="https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_600,h_700/wound-repair-dog-schnauzer-product-placement_jagtzh.jpg"
-                    class="card-img-top lazy" alt="Purina Pro Plan Dry Puppy Food">
-                <div class="card-body">
-                    <h5 class="card-title">Colloidal Silver Spray Solution by Silver Holistics</h5>
-                    <hr class="text-secondary w-100" />
-                    <p class="card-text">This is great for animal wounds, to boost the immune system, and also for after
-                        care
-                        of puppy ear crops! You can spray it on the ears while they are healing. It also helps produce
-                        the
-                        cartilage to make the ears stand. You can put it directly on the ear and also spray it in their
-                        water.
-                    </p>
-                    <a role="button"
-                        href="https://www.amazon.com/gp/product/B07T9NYT2M/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=skyline19-20&creative=9325&linkCode=as2&creativeASIN=B07T9NYT2M&linkId=0b077a003c45b2a6e700b19b9c9d8e26"
-                        class="btn btn-primary mb-1">Buy here</a>
-                    <p class="card-text"><small class="text-muted">Last updated 08/11/2019</small></p>
-                </div>
-            </div>
-        </div>
+        
     </section>
 
     <?php include "socialmediabanner.php";?>
