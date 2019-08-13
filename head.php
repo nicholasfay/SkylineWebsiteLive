@@ -20,4 +20,7 @@
 
     <!-- Custom styles for this template -->
     <link href="/css/main.css" rel="stylesheet">
+    <script async
+        src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=fd273be0-cd17-4543-b9cf-c8c304c8367e">
+    </script>
 </head>

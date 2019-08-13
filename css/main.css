@@ -220,11 +220,20 @@ td {
   flex-direction: row;
 }
 
+.native-ads > div{
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .product-container{
   display:flex;
   justify-content: space-between;
   width: 75%;
   flex-wrap:wrap;
+}
+
+.wrap-button{
+  white-space: normal;
 }
 
 @media screen and (max-width: 850px) {
