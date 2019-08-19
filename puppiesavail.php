@@ -24,9 +24,6 @@
     <!-- Page Content -->
     <section class="content-section-a bg-color">
       <div class="container">
-        <div class="row justify-content-center descript">
-           Skyline’s Ring Leader “Dottie”
-        </div>
         <div class="row justify-content-center descript"><img class="img-fluid lazy" sizes="(max-width: 600px) 100vw, 600px"
                         data-srcset="
                         https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_600/yellow-boy-for-sale_o01hsn.jpg 600w"
