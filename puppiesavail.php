@@ -22,17 +22,21 @@
         </div>
     </section>
     <!-- Page Content -->
-    <!-- <section class="content-section-a bg-color">
+    <section class="content-section-a bg-color">
       <div class="container">
         <div class="row justify-content-center descript">
            Skyline’s Ring Leader “Dottie”
         </div>
-        <div class="row justify-content-center descript"><img width=400 height=600 class="img-fluid" src="images/zeus.jpg" alt="Giant Schnauzer" title="Giant Schnauzer"></div>
+        <div class="row justify-content-center descript"><img class="img-fluid lazy" sizes="(max-width: 600px) 100vw, 600px"
+                        data-srcset="
+                        https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_600/yellow-boy-for-sale_o01hsn.jpg 600w"
+                        data-src="https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_600/yellow-boy-for-sale_o01hsn.jpg"
+                        alt="Giant Schnauzer puppy cropped for sale" title="Giant Schnauzer puppy cropped for sale"></div>
         <div class="row justify-content-center descript">
-        This handsome 5 mos old male is now available to the right home. He’s an energetic, outgoing and happy young pup. He’s also housebroken.
+          Beautiful show male, born 06/11/2019, with fantastic pedigree available. (Ears just cropped in this picture) He is outgoing and confident with a fun loving personality.
         </div>
       </div>
-    </section> -->
+    </section>
     <?php include "socialmediabanner.php";?>
     <?php include "footer.php";?>
 
