@@ -7,7 +7,7 @@
 
     <meta property="og:title" content=<?php echo $title; ?>>
     <meta property="og:description" content="Welcome to the Skyline Giant Schnauzers website. For those who love Giant Schnauzers, want to learn more about them and our breeding program.">
-    <meta property="og:image" content="https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_453/giant-schnauzer-westminister-show_uwt7ib.jpg">
+    <meta property="og:image" content="https://res.cloudinary.com/djjyxjoz2/image/upload/giant-schnauzer-westminister-show_uwt7ib.jpg">
     <meta property="og:url" content="http://www.skylinegiantschnauzer.com/">
     <meta name="twitter:card" content="summary_large_image">
 
