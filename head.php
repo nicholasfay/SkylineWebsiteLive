@@ -5,6 +5,24 @@
         content="Welcome to the Skyline Giant Schnauzers website. For those who love Giant Schnauzers, want to learn more about them and our breeding program.">
     <meta name="author" content="Nicholas Fay">
 
+    <meta property="og:title" content=<?php echo $title; ?>>
+    <meta property="og:description" content="Welcome to the Skyline Giant Schnauzers website. For those who love Giant Schnauzers, want to learn more about them and our breeding program.">
+    <meta property="og:image" content="https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_453/giant-schnauzer-westminister-show_uwt7ib.jpg">
+    <meta property="og:url" content="http://www.skylinegiantschnauzer.com/">
+    <meta name="twitter:card" content="summary_large_image">
+
+
+    <!--  Non-Essential, But Recommended -->
+
+    <meta property="og:site_name" content=<?php echo $title; ?>>
+    <meta name="twitter:image:alt" content="Skyline giant schnauzer Amazon store and information and puppies">
+
+
+    <!--  Non-Essential, But Required for Analytics -->
+
+    <meta property="fb:app_id" content="skylinegiantschnauzer" />
+    <meta name="twitter:site" content="@skylinegiantschnauzer">
+
     <title><?php echo $title; ?></title>
     <link rel='icon' href='./favicon.ico' type='image/x-icon' />
 
