@@ -24,13 +24,20 @@
     <!-- Page Content -->
     <section class="content-section-a bg-color">
       <div class="container">
+        <div class="announcement">
         <div class="row justify-content-center descript"><img class="img-fluid lazy" sizes="(max-width: 600px) 100vw, 600px"
                         data-srcset="
-                        https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_600/yellow-boy-for-sale_o01hsn.jpg 600w"
-                        data-src="https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_600/yellow-boy-for-sale_o01hsn.jpg"
+                        https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_600/puppy-for-sale-giant-schnauzer_sem6qi.jpg 600w"
+                        data-src="https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_600/puppy-for-sale-giant-schnauzer_sem6qi.jpg"
                         alt="Giant Schnauzer puppy cropped for sale" title="Giant Schnauzer puppy cropped for sale"></div>
+        <div class="row justify-content-center descript"><img class="img-fluid lazy" sizes="(max-width: 600px) 100vw, 600px"
+                        data-srcset="
+                        https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_600/puppy-for-sale-giant-schnauzer-2_g9nd3m.jpg 600w"
+                        data-src="https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_600/puppy-for-sale-giant-schnauzer-2_g9nd3m.jpg"
+                        alt="Giant Schnauzer puppy cropped for sale" title="Giant Schnauzer puppy cropped for sale"></div>
+        </div>
         <div class="row justify-content-center descript">
-          Beautiful show male, born 06/11/2019, with fantastic pedigree available. (Ears just cropped in this picture) He is outgoing and confident with a fun loving personality.
+          Beautiful show male, born 06/11/2019, with fantastic pedigree available. He is outgoing and confident with a fun loving personality.
         </div>
       </div>
     </section>
