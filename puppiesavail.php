@@ -8,11 +8,11 @@
     <?php includeWithVariables("header.php", array('headerClass' => 'puppies-avail-header', 'headerHTML' => '<h1>Puppies Available</h1>'));?>
 
     <!-- Page Content -->
-    <section class="content-section-a bg-color">
+    <!-- <section class="content-section-a bg-color">
         <div class="container">
-            <!-- <div class="row justify-content-center descript">
+             <div class="row justify-content-center descript">
            No puppies available at this time.
-        </div> -->
+        </div> 
             <div class="descript">Puppies are currently available! Go to our <a
                     href="https://www.instagram.com/skyline_giant_schnauzers/" class="btn btn-secondary btn-lg">
                     <i class="fa fa-instagram fa-fw"></i>
@@ -20,7 +20,7 @@
                 </a> for live updates! Serious inquiries please fill out our <a
                     href="questionnaire.php">questionnaire</a>.</div>
         </div>
-    </section>
+    </section> -->
     <!-- Page Content -->
     <section class="content-section-a bg-color">
       <div class="container">
