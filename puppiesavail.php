@@ -8,7 +8,7 @@
     <?php includeWithVariables("header.php", array('headerClass' => 'puppies-avail-header', 'headerHTML' => '<h1>Puppies Available</h1>'));?>
 
     <!-- Page Content -->
-    <!-- <section class="content-section-a bg-color">
+    <section class="content-section-a bg-color">
         <div class="container">
              <div class="row justify-content-center descript">
            No puppies available at this time.
@@ -20,9 +20,9 @@
                 </a> for live updates! Serious inquiries please fill out our <a
                     href="questionnaire.php">questionnaire</a>.</div>
         </div>
-    </section> -->
+    </section>
     <!-- Page Content -->
-    <section class="content-section-a bg-color">
+    <!-- <section class="content-section-a bg-color">
       <div class="container">
         <div class="announcement">
         <div class="row justify-content-center descript"><img class="img-fluid lazy" sizes="(max-width: 600px) 100vw, 600px"
@@ -40,7 +40,7 @@
           Beautiful show male, born 06/11/2019, with fantastic pedigree available. He is outgoing and confident with a fun loving personality.
         </div>
       </div>
-    </section>
+    </section> -->
     <?php include "socialmediabanner.php";?>
     <?php include "footer.php";?>
 
