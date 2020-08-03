@@ -15,16 +15,16 @@
                 <div class="col-lg-5 ml-auto descript">
                     <img class="img-fluid lazy" sizes="(max-width: 467px) 100vw, 467px"
                         data-srcset="
-            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_200/giant-schnauzer-stacked-show-axl_ov3uua.jpg 200w,
-            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_324/giant-schnauzer-stacked-show-axl_ov3uua.jpg 324w,
-            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_467/giant-schnauzer-stacked-show-axl_ov3uua.jpg 467w"
-                        data-src="https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_467/giant-schnauzer-stacked-show-axl_ov3uua.jpg"
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_200/axlchmp_k2nfbd.jpg 200w,
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_324/axlchmp_k2nfbd.jpg 324w,
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_467/axlchmp_k2nfbd.jpg 467w"
+                        data-src="https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_467/axlchmp_k2nfbd.jpg"
                         alt="Giant Schnauzer Skyline’s Party Like a Rock Star Axl"
                         title="Skyline’s Party Like a Rock Star Axl">
                 </div>
                 <div class='col-lg-5 ml-auto descript descript2'>
                     <h1 class="register-name">
-                        Skyline’s Party Like a Rock Star, CGC
+                        Ch. Skyline’s Party Like a Rock Star, CGC
                     </h1>
                     <h3 class="call-name">
                         "Axl"
