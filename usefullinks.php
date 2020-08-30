@@ -31,7 +31,12 @@
                 class="list-group-item list-group-item-action">Spay/Neuter Joint Disease</a>
             
             <h3 id="top-spacer">Puppies</h3>
-            <a href="https://www.animal-mrt.com/blog/post/21701/Exercises-for-Young-Dogs/?fbclid=IwAR3UwBt6Mau_tG6cdnCEb6z9leT-rOhzDqxZl2ziztN81Mj5N4zNcT5YL10" class="list-group-item list-group-item-action">Exercises for Young Dogs</a>
+            <div class="row justify-content-center mt-1"><img class="img-fluid lazy" sizes="(max-width: 500px) 100vw, 500px"
+                        data-srcset="
+                        https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_500/socialization-diagram-puppies_mneb30 500w"
+                        data-src="https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_500/socialization-diagram-puppies_mneb30"
+                        alt="Giant Schnauzer puppy socialization tips" title="Giant Schnauzer puppy socialization tips"></div>
+            <a href="https://www.animal-mrt.com/blog/post/21701/Exercises-for-Young-Dogs/" class="list-group-item list-group-item-action">Exercises for Young Dogs</a>
 
 
             <h3 id="top-spacer">Giant Rescue</h3>
