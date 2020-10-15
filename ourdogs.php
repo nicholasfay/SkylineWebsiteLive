@@ -252,7 +252,6 @@
         </div>
 
     </section>
-
     <section class="content-section-a bg-color">
 
         <div class="container">
@@ -260,10 +259,10 @@
                 <div class="col-lg-5 ml-auto descript">
                     <img class="img-fluid lazy" sizes="(max-width: 467px) 100vw, 467px"
                         data-srcset="
-            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_200/axlchmp_k2nfbd.jpg 200w,
-            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_324/axlchmp_k2nfbd.jpg 324w,
-            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_467/axlchmp_k2nfbd.jpg 467w"
-                        data-src="https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_467/axlchmp_k2nfbd.jpg"
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_200/120316341_3358845517538190_3580101879602525757_n_tc47cz.jpg 200w,
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_324/120316341_3358845517538190_3580101879602525757_n_tc47cz.jpg 324w,
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_467/120316341_3358845517538190_3580101879602525757_n_tc47cz.jpg 467w"
+                        data-src="https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_467/120316341_3358845517538190_3580101879602525757_n_tc47cz.jpg"
                         alt="Giant Schnauzer Skyline’s Shinedown Corey"
                         title="Skyline’s Shinedown">
                 </div>
