@@ -253,6 +253,43 @@
 
     </section>
 
+    <section class="content-section-a bg-color">
+
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-5 ml-auto descript">
+                    <img class="img-fluid lazy" sizes="(max-width: 467px) 100vw, 467px"
+                        data-srcset="
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_200/axlchmp_k2nfbd.jpg 200w,
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_324/axlchmp_k2nfbd.jpg 324w,
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_467/axlchmp_k2nfbd.jpg 467w"
+                        data-src="https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_467/axlchmp_k2nfbd.jpg"
+                        alt="Giant Schnauzer Skyline’s Shinedown Corey"
+                        title="Skyline’s Shinedown">
+                </div>
+                <div class='col-lg-5 ml-auto descript descript2'>
+                    <h1 class="register-name">
+                        Ch. Skyline’s Shinedown
+                    </h1>
+                    <h3 class="call-name">
+                        "Corey"
+                    </h3>
+                    <h4 class="father">
+                        s. BISS GCH Skyline’s Outlaw
+                    </h4>
+                    <h4 class="mother">
+                        d. Ch. Stablemaster's Faidra
+                    </h4>
+                    <h4 class="dob">
+                        Date of Birth: 6/11/19
+                    </h4>
+                </div>
+            </div>
+
+        </div>
+
+    </section>
+
     <?php include "socialmediabanner.php";?>
     <?php include "footer.php";?>
 
