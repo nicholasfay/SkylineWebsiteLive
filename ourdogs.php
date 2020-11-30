@@ -219,16 +219,15 @@
     </section>
 
     <section class="content-section-a bg-color">
-
         <div class="container">
             <div class="row">
                 <div class="col-lg-5 ml-auto descript">
                     <img sizes="(max-width: 467px) 100vw, 467px"
                         data-srcset="
-            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_200/giant-schnauzer-stacked-show-quest_jp1ivu.jpg 200w,
-            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_324/giant-schnauzer-stacked-show-quest_jp1ivu.jpg 324w,
-            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_467/giant-schnauzer-stacked-show-quest_jp1ivu.jpg 467w"
-                        data-src="https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_467/giant-schnauzer-stacked-show-quest_jp1ivu.jpg"
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_200/128759869_2737586479788162_7453790707846208063_n_j7zfec.jpg 200w,
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_324/128759869_2737586479788162_7453790707846208063_n_j7zfec.jpg 324w,
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_467/128759869_2737586479788162_7453790707846208063_n_j7zfec.jpg 467w"
+                        data-src="https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_467/128759869_2737586479788162_7453790707846208063_n_j7zfec.jpg"
                         class="img-fluid lazy" alt="Giant Schnauzer Skyline’s Quest For Perfection Quest"
                         title="Giant Schnauzer Skyline’s Quest For Perfection Quest">
                 </div>
