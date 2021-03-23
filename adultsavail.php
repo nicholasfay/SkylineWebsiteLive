@@ -12,8 +12,21 @@
     <section class="content-section-a bg-color">
         <div class="container">
             <div class="row justify-content-center descript">
-                       No adults available at this time.
-                    </div>
+                Young adult male available to the right home. Looking for a one or two dog home (other dog must be a
+                spayed female).
+
+            </div>
+            <div class="row justify-content-center descript">
+                Requirements: an experienced Giant or working dog owner who has ample time to spend training with him,
+                and who can provide him a consistent structured daily routine, that includes work, fun, and lots of love
+                and attention. Must be on the east coast and in close proximity to Long Island. He will be required to
+                remain in my breeding program.Requirements: an experienced Giant or working dog owner who has ample time
+                to spend training with him, and who can provide him a consistent structured daily routine, that includes
+                work, fun, and lots of love and attention. Must be on the east coast and in close proximity to Long
+                Island. He will be required to remain in my breeding program.
+
+            </div>
+
             <!-- <div class="descript">Adults are currently available! Go to our <a
                     href="https://www.instagram.com/skyline_giant_schnauzers/" class="btn btn-secondary btn-lg">
                     <i class="fa fa-instagram fa-fw"></i>
