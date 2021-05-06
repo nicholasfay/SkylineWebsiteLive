@@ -20,11 +20,7 @@
                 Requirements: an experienced Giant or working dog owner who has ample time to spend training with him,
                 and who can provide him a consistent structured daily routine, that includes work, fun, and lots of love
                 and attention. Must be on the east coast and in close proximity to Long Island. He will be required to
-                remain in my breeding program.Requirements: an experienced Giant or working dog owner who has ample time
-                to spend training with him, and who can provide him a consistent structured daily routine, that includes
-                work, fun, and lots of love and attention. Must be on the east coast and in close proximity to Long
-                Island. He will be required to remain in my breeding program.
-
+                remain in my breeding program.
             </div>
 
             <!-- <div class="descript">Adults are currently available! Go to our <a

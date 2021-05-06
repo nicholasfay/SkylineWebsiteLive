@@ -110,8 +110,11 @@
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
                     <h2 class="section-heading">#1 Male Giant Schnauzer 2010</h2>
-                    <p class="lead">BISS GCH CH Skyline's Eliminator took us to the top by winning Best of Breed at the
-                        prestigious Westminster Kennel Club in 2011 and also was the #1 Giant Schnauzer male in 2010</p>
+                    <p class="lead">Home of multiple Westminster awards, GSCA best in specialty, GSCA brood bitch award
+                        , multiple GCH, CH, and CGC dogs, and we also have international champions. We breed quality
+                        Giants with great temperaments, that are versatile and thrive in a broad variety of lifestyles
+                        and activities, including show dogs, working dogs, and companion / family dogs. To us, each dog
+                        is family.</p>
                 </div>
                 <div class="col-lg-5 mr-auto">
                     <img class="img-fluid lazy" sizes="(max-width: 467px) 100vw, 467px"
@@ -179,7 +182,7 @@
         </div>
     </section>
     <section class="content-section-a bg-color">
-        
+
     </section>
 
     <?php include "socialmediabanner.php";?>

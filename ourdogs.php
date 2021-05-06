@@ -13,8 +13,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-5 ml-auto descript">
-                    <img class="img-fluid lazy" sizes="(max-width: 467px) 100vw, 467px"
-                        data-srcset="
+                    <img class="img-fluid lazy" sizes="(max-width: 467px) 100vw, 467px" data-srcset="
             https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_200/axlchmp_k2nfbd.jpg 200w,
             https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_324/axlchmp_k2nfbd.jpg 324w,
             https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_467/axlchmp_k2nfbd.jpg 467w"
@@ -262,8 +261,7 @@
             https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_324/120316341_3358845517538190_3580101879602525757_n_tc47cz.jpg 324w,
             https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_467/120316341_3358845517538190_3580101879602525757_n_tc47cz.jpg 467w"
                         data-src="https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_467/120316341_3358845517538190_3580101879602525757_n_tc47cz.jpg"
-                        alt="Giant Schnauzer Skyline’s Shinedown Corey"
-                        title="Skyline’s Shinedown">
+                        alt="Giant Schnauzer Skyline’s Shinedown Corey" title="Skyline’s Shinedown">
                 </div>
                 <div class='col-lg-5 ml-auto descript descript2'>
                     <h1 class="register-name">
@@ -281,6 +279,44 @@
                     <h4 class="dob">
                         Date of Birth: 6/11/19
                     </h4>
+                </div>
+            </div>
+
+        </div>
+
+    </section>
+
+    <section class="content-section-a bg-color">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-5 ml-auto descript">
+                    <img class="img-fluid lazy" sizes="(max-width: 467px) 100vw, 467px" data-srcset="
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_200/dreamer_qhxfne.jpg 200w,
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_324/dreamer_qhxfne.jpg 324w,
+            https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_467/dreamer_qhxfne.jpg 467w"
+                        data-src="https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_467/dreamer_qhxfne.jpg"
+                        alt="Giant Schnauzer Skyline’s The American Dream Dreamer" title="Skyline’s The American Dream">
+                </div>
+                <div class='col-lg-5 ml-auto descript descript2'>
+                    <h1 class="register-name">
+                        Skyline’s The American Dream
+                    </h1>
+                    <h3 class="call-name">
+                        "Dreamer"
+                    </h3>
+                    <h4 class="father">
+                        s. Ch Kirsch de Che Quin Gos
+                    </h4>
+                    <h4 class="mother">
+                        d. Ch. Stablemaster’s Faidra
+                    </h4>
+                    <div>- Owned by Luis Lin (Lordship Kennel)</div>
+                    <div>- Groomed by Zarina Obez</div>
+                    <div>- Bred by Skyline Giant Schnauzers</div>
+                    <div>I am super excited about this young dog’s future. I have been a big admirer of Luis’s Giants
+                        from the very beginning of my journey as a breeder. This adventure is truly a dream come true
+                        for me, to see the beautiful results of my selective breeding reflected in this special boy. 8
+                        months old in these pictures</div>
                 </div>
             </div>
 
