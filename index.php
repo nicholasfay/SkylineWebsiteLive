@@ -53,28 +53,7 @@
                     <p class="card-text"><small class="text-muted">Last updated 08/11/2019</small></p>
                 </div>
             </div>
-            <div class="card product-card">
-                <img data-srcset="https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_600,h_700/wound-repair-dog-schnauzer-product-placement_jagtzh.jpg"
-                    data-src="https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_600,h_700/wound-repair-dog-schnauzer-product-placement_jagtzh.jpg"
-                    class="card-img-top lazy" alt="Purina Pro Plan Dry Puppy Food">
-                <div class="card-body">
-                    <h5 class="card-title">Colloidal Silver Spray Solution by Silver Holistics</h5>
-                    <hr class="text-secondary w-100" />
-                    <p class="card-text">This is great for animal wounds, to boost the immune system, and also for after
-                        care
-                        of puppy ear crops! You can spray it on the ears while they are healing. It also helps produce
-                        the
-                        cartilage to make the ears stand. You can put it directly on the ear and also spray it in their
-                        water.
-                    </p>
-                    <a role="button"
-                        href="https://www.amazon.com/gp/product/B07T9NYT2M/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=skyline19-20&creative=9325&linkCode=as2&creativeASIN=B07T9NYT2M&linkId=0b077a003c45b2a6e700b19b9c9d8e26"
-                        class="btn btn-primary mb-1">Buy here</a>
-                    <p class="card-text"><small class="text-muted">Last updated 08/11/2019</small></p>
-                </div>
-            </div>
-        </div>
-        <hr class="text-secondary w-75 mt-5" />
+            <hr class="text-secondary w-75 mt-5" />
     </section>
     <section class="content-section-a bg-color">
         <div class="container center mb-5">
