@@ -12,8 +12,8 @@
         <div class="container">
             <div class="row justify-content-center descript"><img class="img-fluid lazy"
                     sizes="(max-width: 600px) 100vw, 600px" data-srcset="
-                        https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_600/IMG_6117_qizouo.heic 600w"
-                    data-src="https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_600/IMG_6117_qizouo.heic"
+                        https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_600/IMG_6117_niiqok.jpg 600w"
+                    data-src="https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_600/IMG_6117_niiqok.jpg"
                     alt="Giant Schnauzer puppy cropped for sale" title="Giant Schnauzer puppy cropped for sale"></div>
             <div class="row justify-content-center descript">
                 Young adult male available to the right home. Looking for a one or two dog home (other dog must be a
