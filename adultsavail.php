@@ -10,7 +10,7 @@
     <!-- Page Content -->
     <section class="content-section-a bg-color">
         <div class="container">
-            <div class="row justify-content-center descript"><img class="img-fluid lazy"
+            <!-- <div class="row justify-content-center descript"><img class="img-fluid lazy"
                     sizes="(max-width: 600px) 100vw, 600px" data-srcset="
                         https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_600/IMG_6117_niiqok.jpg 600w"
                     data-src="https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_600/IMG_6117_niiqok.jpg"
@@ -21,7 +21,7 @@
                 Requirements: an experienced Giant or working dog owner who has ample time to spend training with him,
                 and who can provide him a consistent structured daily routine, that includes work, fun, and lots of love
                 and attention.
-            </div>
+            </div> -->
 
             <!-- <div class="descript">Adults are currently available! Go to our <a
                     href="https://www.instagram.com/skyline_giant_schnauzers/" class="btn btn-secondary btn-lg">
