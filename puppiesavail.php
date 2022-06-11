@@ -10,16 +10,16 @@
     <!-- Page Content -->
     <section class="content-section-a bg-color">
         <div class="container">
-             <div class="row justify-content-center descript">
+            <!-- <div class="row justify-content-center descript">
            No puppies available at this time.
-        </div> 
-            <!-- <div class="descript">Puppies are currently available! Go to our <a
+        </div>  -->
+            <div class="descript">Puppies are currently available! Go to our <a
                     href="https://www.instagram.com/skyline_giant_schnauzers/" class="btn btn-secondary btn-lg">
                     <i class="fa fa-instagram fa-fw"></i>
                     <span class="network-name">Instagram</span>
                 </a> for live updates! Serious inquiries please fill out our <a
                     href="questionnaire.php">questionnaire</a>.</div>
-        </div> -->
+        </div>
     </section>
     <!-- Page Content -->
     <!-- <section class="content-section-a bg-color">
