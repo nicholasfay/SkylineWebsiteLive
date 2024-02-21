@@ -12,10 +12,6 @@
 
     <!-- Page Content -->
     <section class="content-section-a bg-color">
-        <div class="container center mb-5 amazonlink">
-            <span class="amazontext">Check out our new product recommendation page on Amazon</span>
-            <a role="button" href="https://bit.ly/skylinestore" class="wrap-button btn btn-info btn-lg">Click Here!</a>
-        </div>
         <div class="product-container mt-5 ml-auto mr-auto">
             <h1 class="center w-75 ml-auto mr-auto">Skyline's Featured Products Of The Month</h1>
             <hr class="mb-5 text-secondary w-75" />
@@ -179,7 +175,7 @@
         </div>
     </section>
     <section class="content-section-a bg-color">
-        
+
     </section>
 
     <?php include "socialmediabanner.php";?>

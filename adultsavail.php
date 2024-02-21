@@ -12,15 +12,25 @@
     <section class="content-section-a bg-color">
         <div class="container">
             <div class="row justify-content-center descript">
-                       No adults available at this time.
-                    </div>
-            <!-- <div class="descript">Adults are currently available! Go to our <a
-                    href="https://www.instagram.com/skyline_giant_schnauzers/" class="btn btn-secondary btn-lg">
-                    <i class="fa fa-instagram fa-fw"></i>
-                    <span class="network-name">Instagram</span>
-                </a> to see the gang! Serious inquiries please fill out our <a
-                    href="questionnaire.php">questionnaire</a>.</div>
-        </div> -->
+                No adults available at this time.
+            </div>
+            <!-- <div class="row justify-content-center descript">
+                Two year old neutered male available. We are looking for a home with Giant Schnauzer experience and
+                looking
+                to train. He is loyal and loving, but will need guidance with his social skills. Please fill out our <a
+                    href="questionnaire.php">questionnaire</a> and follow up with a phone call if interested to learn
+                more.
+            </div>
+            <div class="row justify-content-center descript"><img class="img-fluid lazy"
+                    sizes="(max-width: 600px) 100vw, 600px"
+                    data-srcset="
+                        https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_600/male_for_sale_50406657_fqkqqk.jpg 600w"
+                    data-src="https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_600/male_for_sale_50406657_fqkqqk.jpg"
+                    alt="Giant Schnauzer adult cropped for sale" title="Giant Schnauzer adult cropped for sale"></div> -->
+
+        </div>
+
+        </div>
     </section>
 
     <?php include "socialmediabanner.php";?>

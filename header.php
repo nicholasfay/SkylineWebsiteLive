@@ -87,6 +87,16 @@
                     </a>
                 </li>
             </ul>
+            <ul class="list-inline intro-social-buttons">
+                <li><a role="button" href="https://bit.ly/skylinestore" class="wrap-button btn btn-info btn-lg">Amazon
+                        Product Recommendation Page</a></li>
+            </ul>
+            <ul class="list-inline intro-social-buttons">
+                <li><a href="https://kuranda.com?partner=26935" class="wrap-button btn btn-info btn-lg"><img
+                            src="https://media.partners.kuranda.com/kuranda-partner-media/img/partner-banner.jpg"
+                            alt="Kuranda Dog Beds"><br>Kuranda Dog Beds</a>
+                </li>
+            </ul>
         </div>
     </div>
 </header>
