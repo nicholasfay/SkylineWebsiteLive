@@ -15,6 +15,10 @@
                 class="list-group-item list-group-item-action">Giant Schnauzer Temperament What's Good About 'Em, What's Bad About 'Em</a>
             <a href="http://rufflyspeaking.net/i-dont-want-a-show-dog-i-just-want-a-pet/"
                 class="list-group-item list-group-item-action">I don’t want a show dog; I just want a pet.</a>
+            <a href="https://www.scribd.com/document/521699350/Frequently-Asked-Questions-and-Myths?secret_password=Ta704cRC3XRQjjLeKlm6"
+                class="list-group-item list-group-item-action">Giant Schnauzers FAQ and Myths</a>
+            <a href="https://www.scribd.com/document/521699818/Document"
+                class="list-group-item list-group-item-action">Giant Schnauzers Why not a service dog</a>
 
             <h3 id="top-spacer">Giant Information</h3>
             <a href="http://giantschnauzerclubofamerica.com/wp-content/uploads/2010/04/Is-a-Giant-Schnauzer-the-Right-Dog-for-You.pdf"
