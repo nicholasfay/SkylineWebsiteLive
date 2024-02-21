@@ -18,11 +18,9 @@
                         data-src="https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_600/summer_2022_puppies_ldv8ud.jpg"
                         alt="Giant Schnauzer puppies, litter announcement" title="Giant Schnauzer puppies, litter announcement"></div> -->
 
-            </div><a href="https://www.facebook.com/skylinegiantschnauzers/posts/1424954944359837">Check out our latest
-                litter announcement by clicking this link!</a>
-            <div class="descript margin-bottom">No litters to announce at this time.</div>
+                <div class="descript margin-bottom">No litters to announce at this time.</div>
 
-        </div>
+            </div>
         </div>
     </section>
 
