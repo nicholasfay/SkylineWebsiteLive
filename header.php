@@ -88,7 +88,8 @@
                 </li>
             </ul>
             <ul class="list-inline intro-social-buttons">
-                <li><a role="button" href="https://bit.ly/skylinestore" class="wrap-button btn btn-info btn-lg">Skyline
+                <li><a role="button" href="https://manateezdesign.com/collections/skyline-giant-schnauzers"
+                        class="wrap-button btn btn-info btn-lg">Skyline
                         Merch Store!</a></li>
             </ul>
             <ul class="list-inline intro-social-buttons">
