@@ -10,8 +10,11 @@
     <!-- Page Content -->
     <section class="content-section-a bg-color">
         <div class="container">
-            <div class="row justify-content-center descript">
+            <!-- <div class="row justify-content-center descript">
                 No puppies available at this time.
+            </div> -->
+            <div class="row justify-content-center descript">
+                Check out our <a href="litterannouncement.php#">litter announcement page</a>
             </div>
         </div>
     </section>

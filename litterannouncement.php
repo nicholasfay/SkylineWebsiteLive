@@ -11,14 +11,16 @@
     <section class="content-section-a">
         <div class="container">
             <div class="text-center">
-                <!-- <h3>Summer puppies are coming!! ❤️❤️❤️🐾🐾🐾</h3>
-            <div class="row justify-content-center descript mt-3"><img class="img-fluid lazy" sizes="(max-width: 600px) 100vw, 600px"
+                <h3>Summer puppies are here!! ❤️❤️❤️🐾🐾🐾</h3>
+                <div class="row justify-content-center descript mt-3"><img class="img-fluid lazy"
+                        sizes="(max-width: 600px) 100vw, 600px"
                         data-srcset="
-                        https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_600/summer_2022_puppies_ldv8ud.jpg 600w"
-                        data-src="https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_600/summer_2022_puppies_ldv8ud.jpg"
-                        alt="Giant Schnauzer puppies, litter announcement" title="Giant Schnauzer puppies, litter announcement"></div> -->
+                        https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_600/2024-giant-schnauzer-litter-announcement_z3vuez.jpg 600w"
+                        data-src="https://res.cloudinary.com/djjyxjoz2/image/upload/c_scale,w_600/2024-giant-schnauzer-litter-announcement_z3vuez.jpg"
+                        alt="Giant Schnauzer puppies, litter announcement"
+                        title="Giant Schnauzer puppies, litter announcement"></div>
 
-                <div class="descript margin-bottom">No litters to announce at this time.</div>
+                <!-- <div class="descript margin-bottom">No litters to announce at this time.</div> -->
 
             </div>
         </div>
